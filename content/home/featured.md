@@ -6,14 +6,14 @@
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Featured Publications"
-subtitle = ""
+title = "Events"
+subtitle = "probando sub"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -24,7 +24,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = "Events"
     publication_type = ""
   
 [design]
