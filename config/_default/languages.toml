@@ -5,6 +5,11 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
+  contentDir = "content/en"
+  
+[es]
+  languageCode = "es-mx"
+  contentDir = "content/es"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]

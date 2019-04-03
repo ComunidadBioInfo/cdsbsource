@@ -1,0 +1,9 @@
+---
+authors: ["admin"]
+date: 2018-03-13 17:23:16+00:00
+link: http://www.comunidadbioinfo.org/aviso-de-privacidad/
+slug: aviso-de-privacidad
+title: Aviso de Privacidad para la Protección de Datos Personales
+---
+
+See version in Spanish. This private notice is for those of you in Mexico.
