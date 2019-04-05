@@ -3,7 +3,7 @@ authors: ["admin"]
 date: 2019-04-05 13:30:00+00:00
 slug: building-tidy-tools-CDSB-runconf-2019
 title: "Taller CDSB 2019: Cómo Crear y Ordenar Herramientas"
-categories: ["Events"]
+categories: ["Events", "rstats", "rstatsES"]
 featured: true
 ---
 
