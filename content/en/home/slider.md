@@ -36,7 +36,7 @@ height = "200px"
 
 [[item]]
   title = "A place to meet"
-  content = "for bioinformatics software developers"
+  content = "for Bioinformatics software developers"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
