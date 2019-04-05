@@ -45,7 +45,7 @@ height = "200px"
 
 [[item]]
   title = "Lets build a community"
-  content = "and multiple our results"
+  content = "and multiply our results"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
