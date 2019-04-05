@@ -9,23 +9,24 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Comunidad de Desarrolladores de Software en Bioinformática"
+role = "Community of Bioinformatics Software Developers"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "We want to help you acquire the skills to contribute open source Bioinformatics software using R"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "cdsbmexico@gmail.com"
+email = ""
 
 # List (academic) interests or hobbies
 interests = [
   "R",
   "Bioinformatics",
-  "Education"
+  "Education",
+  "Diversity"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -45,6 +46,11 @@ user_groups = ["Community"]
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
+  icon = "home"
+  icon_pack = "fas"
+  link = "https://comunidadbioinfo.github.io/"
+
+[[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/CDSBMexico"
@@ -53,6 +59,11 @@ user_groups = ["Community"]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/ComunidadBioInfo"
+  
+[[social]]
+  icon = "slack"
+  icon_pack = "fab"
+  link = "https://comunidadbioinfo.slack.com"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,6 +74,6 @@ user_groups = ["Community"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to the Community of Bioinformatics Software Developers (CDSB in Spanish)! 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+We are a group interested in helping members of Latin American countries acquire the necessary skills to contribute to open source software development. [R](https://cran.r-project.org/) is now used by many industries and has been a long time favorite in academia. As `R` users grow more familiar with the language, they typically end up writing their own functions and sharing them with others via packages. These packages can be distributed via [GitHub](https://github.com/) or via formal repositories like [CRAN](https://cran.r-project.org/) and [Bioconductor](http://bioconductor.org/). `Bioconductor` is a project centered around open source software for bioinformatics made with `R` that has been helpful to many of us. We want to improve the representation of Latin American countries in open source developer communities to make them more diverse. Thus, our main goal is to help teach Latin Americans how to make `R` packages and share them via GitHub, CRAN and Bioconductor.

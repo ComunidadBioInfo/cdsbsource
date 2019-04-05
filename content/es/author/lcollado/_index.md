@@ -9,25 +9,25 @@ authors = ["lcollado"]
 superuser = false
 
 # Role/position
-role = "Staff Scientist"
+role = "Científico de Datos"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Lieber Institute for Brain Development", url = "https://www.libd.org/" } ]
+organizations = [ { name = "Instituto Lieber para el Desarrollo del Cerebro", url = "https://www.libd.org/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Brain genomics #rstats coder working w/ @andrewejaffe @LieberInstitute. @lcgunam @jhubiostat @jtleek alumni. @LIBDrstats @CDSBMexico co-founder."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "leo.collado@libd.org"
 
 # List (academic) interests or hobbies
 interests = [
-  "Genomics",
-  "R programming",
-  "Biostatistics",
-  "Teaching",
-  "Diversity"
+  "Genómica",
+  "Programación con R",
+  "Bioestadística",
+  "Educación",
+  "Diversidad"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -36,13 +36,13 @@ user_groups = ["Fundadores", "Instructores 2019", "Instructores 2018"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Biostatistics"
+  course = "Doctorado en Bioestadística"
   institution = "Johns Hopkins Bloomberg School of Public Health"
   year = 2016
 
 [[education.courses]]
-  course = "Bachelor in Genomic Sciences (LCG)"
-  institution = "National Autonomous University of Mexico (UNAM)"
+  course = "Licenciatura en Ciencias Genómicas (LCG)"
+  institution = "Universidad Nacional Autónoma de México (UNAM)"
   year = 2009
 
 # Social/Academic Networking
@@ -55,6 +55,11 @@ user_groups = ["Fundadores", "Instructores 2019", "Instructores 2018"]
   icon_pack = "fas"
   link = "mailto:leo.collado@libd.org"  # For a direct email link, use "mailto:test@example.org".
 
+[[social]]
+  icon = "home"
+  icon_pack = "fas"
+  link = "http://lcolladotor.github.io"
+  
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
@@ -79,4 +84,4 @@ user_groups = ["Fundadores", "Instructores 2019", "Instructores 2018"]
 
 +++
 
-Leo is...
+[Leonardo](http://lcolladotor.github.io/) usa `R` diario y ha contribuido paquetes al proyecto de Bioconductor como parte de su trabajo con [Andrew Jaffe](http://aejaffe.com/) en [LIBD](https://www.libd.org/). El está interesado en tecnologías genómicas que generan datos a gran escala como RNA-seq, avances en R y en ayudar a otros a empezar su aventura con R. Leonardo ha estado aprendiendo y enseñando R desde el 2008 y es co-fundador del [LIBD rstats club](http://research.libd.org/rstatsclub/#.XKVLJetKi50). 

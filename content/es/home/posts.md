@@ -65,3 +65,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+
+¡Gracias a [RWeekly](https://rweekly.org) por compartir las entradas en nuestro blog!

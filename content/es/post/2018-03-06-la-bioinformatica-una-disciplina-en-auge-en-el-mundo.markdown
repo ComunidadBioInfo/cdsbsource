@@ -1,7 +1,6 @@
 ---
 authors: ["delfinog"]
 date: 2018-03-06 20:49:18+00:00
-link: http://www.comunidadbioinfo.org/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/
 slug: la-bioinformatica-una-disciplina-en-auge-en-el-mundo
 title: La Bioinformática, una disciplina en auge en el mundo
 categories: ["difusion"]

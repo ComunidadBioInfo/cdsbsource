@@ -1,65 +1,50 @@
 ---
 authors: ["admin"]
 date: 2018-03-21 18:12:26+00:00
-link: http://www.comunidadbioinfo.org/talleres-internacionales-de-bioinformatica-2018/
 slug: talleres-internacionales-de-bioinformatica-2018
-title: Talleres Internacionales de Bioinformática 2018
+title: 2018 International Workshop on Bioinformatics
 categories: ["Events"]
 featured: true
 ---
 
-**El Nodo Nacional de Bioinformática (NNB-UNAM) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a**
-
-
-
-
-
-### 
-
-
+**The National Node of Bioinformatics (NNB-UNAM) and the Community of Bioinformatics Software Developers (CDSB) invite you to**
 
 
 ### TIB2018: R para todos
-&
-Latin American R/Bioconductor Developers Workshop
+### &
+### Latin American R/Bioconductor Developers Workshop
 
 
 
 
-**Centro de Ciencias Genómicas-UNAM (CCG-UNAM), en Cuernavaca Morelos, México.**
-**30 de Julio al 3 de Agosto de 2018**
+**UNAM Center for Genomic Sciences (CCG-UNAM) in Cuernavaca Morelos, Mexico.**
+**From July 30 to August 3, 2018**
 
 
-Este año, hemos decidido unir esfuerzos para impulsar el desarrollo de habilidades en el lenguaje de programación R, bajo el slogan **_“Aprende R y hagamos comunidad”_**.
+This year, we decided to join efforts to promote the development of skills in the programming language R, under the slogan  **"Learn R and do community"** .
 
-En el mundo del análisis de datos **R** y **Python** están posicionados como los lenguajes de programación de mayor crecimiento.
+In the world of data analysis  **R**  and  **Python**  they are positioned as programming languages fastest growing.
 
-Las razones:
+The reasons:
 
+* They are easy to learn
 
-
- 	
-  * Son fáciles de aprender
-
- 	
-  * Disponen de librerías especializadas de estadística avanzada.
+* Specialized libraries offer advanced statistics.
 
 
-¿Por qué hemos elegido R?
+Why have we chosen R?
 
-Es ideal para **no programadores** y dispone de unas librerías realmente poderosas.
+It is ideal for  **non - programmers**  and has really powerful libraries.
 
-Nuestros profesores son investigadores, posdocs o técnicos académicos con amplia experiencia en el área, de instituciones nacionales y extranjeras. La mayoría de ellos están certificados como instructores certificados de Software Carpentry, que los capacita en las mejores prácticas de la enseñanza de la informática en investigación.
+Our teachers are researchers, postdocs and academic technicians with extensive experience in the area of ​​domestic and foreign institutions. Most of them are certified as Software Carpentry certified instructors, who trained in the best practices of teaching computer science research.
 
-Los talleres están organizados por:
-
-
+The workshops are organized by:
 
  	
-  * NNB-UNAM, nodo Mexicano del EMBNet (European Molecular Biology network)
+  * NNB-UNAM, Mexican node EMBNet (European Molecular Biology network)
 
  	
-  * Comunidad de Desarrolladores de Software en Bioinformática (CDSB)
+  * Community of Bioinformatics Software Developers (CDSB)
 
 
 
@@ -67,9 +52,12 @@ Los talleres están organizados por:
 #### Talleres
 
 
-[T1: Taller de introducción a R y R Studio](http://congresos.nnb.unam.mx/TIB2018/t1-taller-de-introduccion-a-r-y-r-studio/)
-[T2: Análisis exploratorio y estadístico de datos biológicos usando R](http://congresos.nnb.unam.mx/TIB2018/t2-analisis-exploratorio-y-estadistico-de-datos-biologicos-usando-r/)
-[T3: Taller de RNA-Seq: Análisis exploratorio de genes y expresión diferencial](http://congresos.nnb.unam.mx/TIB2018/t3-analisis-exploratorio-de-genes-y-expresion-diferencial/)
-[T4: Taller de NGS: Ensamble y Anotación de Genomas](http://congresos.nnb.unam.mx/TIB2018/t4-taller-de-ngs-ensamble-y-anotacion-de-genomas/)
+[T1: Introduction workshop R and R Studio](http://congresos.nnb.unam.mx/TIB2018/t1-taller-de-introduccion-a-r-y-r-studio/)
 
-[Regístrate](http://congresos.nnb.unam.mx/TIB2018/registro)
+[T2: Exploratory and statistical analysis of biological data using R ](http://congresos.nnb.unam.mx/TIB2018/t2-analisis-exploratorio-y-estadistico-de-datos-biologicos-usando-r/)
+
+[T3: Workshop RNA-Seq: Exploratory analysis of genes and differential expression](http://congresos.nnb.unam.mx/TIB2018/t3-analisis-exploratorio-de-genes-y-expresion-diferencial/)
+
+[T4: Workshop NGS: Assembly and Genome Annotation](http://congresos.nnb.unam.mx/TIB2018/t4-taller-de-ngs-ensamble-y-anotacion-de-genomas/)
+
+[Register](http://congresos.nnb.unam.mx/TIB2018/registro)

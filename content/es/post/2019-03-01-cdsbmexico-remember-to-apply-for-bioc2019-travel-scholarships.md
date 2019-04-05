@@ -1,9 +1,8 @@
 ---
 authors: ["lcollado"]
 date: 2019-03-01 04:24:47+00:00
-link: http://www.comunidadbioinfo.org/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/
 slug: cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships
-title: 'CDSBMexico: remember to apply for BioC2019 travel scholarships'
+title: 'CDSBMexico: acuerdense de solicitar becas para ir a BioC2019'
 categories: ["rstats"]
 ---
 
@@ -28,7 +27,7 @@ About 10 months ago [we announced our plans](http://lcolladotor.github.io/2018/0
   * And our [_Latin American R/Bioconductor Developers Workshop_](http://congresos.nnb.unam.mx/TIB2018/r-bioconductor-developers-workshop-2018/)
 
 
-Overall it was a success as described in [_A recap of CDSB 2018: the start of a community_](http://www.comunidadbioinfo.org/a-recap-of-cdsb-2018-the-start-of-a-community/). However, we are not done yet! 💪🏽As we have stated several times, our goal is to turn R users into developers and to increase the representation of Mexicans and Latin Americans at other R events.
+Overall it was a success as described in [_A recap of CDSB 2018: the start of a community_](https://comunidadbioinfo.github.io/post/a-recap-of-cdsb-2018-the-start-of-a-community/). However, we are not done yet! 💪🏽As we have stated several times, our goal is to turn R users into developers and to increase the representation of Mexicans and Latin Americans at other R events.
 
 
 
@@ -52,7 +51,7 @@ The one R event that we followed as a guide last year is the Bioconductor yearly
 ### Travel scholarships
 
 
-However, we want to remind you that there are travel scholarships available! And we, [_CDSB_](http://www.comunidadbioinfo.org/), want to help you! 🙌🏽
+However, we want to remind you that there are travel scholarships available! And we, [_CDSB_](https://comunidadbioinfo.github.io/), want to help you! 🙌🏽
 
 All the details about the travel scholarship and different types of submission proposals are available on the [BioC2019](https://bioc2019.bioconductor.org/call-for-abstracts) website. But let us summarize the process for you.
 
@@ -114,7 +113,7 @@ If you don’t have a professional website, we recommend that you make one follo
 #### Bioconductor project participation
 
 
-Next, we know that each of you worked at least in one R package during CDSBMexico 2018 such as [rGriffin (check the blog post)](http://www.comunidadbioinfo.org/r-gene-regulatory-interaction-formulator-for-inquiring-networks/). Maybe you even submitted your package to Bioconductor. At least, you met and interacted with longtime Bioconductor members such as Martin Morgan and Benilton Carvalho. Since then, you might have worked on other R packages, shiny applications, etc. You might have also answered questions on the Bioconductor support website, reported bugs or opened issues in existing packages, joined the developers mailing list, joined the Bioconductor Slack workspace, etc. Ultimately, you could potentially present a poster or give a talk about the package you worked on last summer, but you’ll need to coordinate with your team members and/or lab principal investigator.
+Next, we know that each of you worked at least in one R package during CDSBMexico 2018 such as [rGriffin (check the blog post)](https://comunidadbioinfo.github.io/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/). Maybe you even submitted your package to Bioconductor. At least, you met and interacted with longtime Bioconductor members such as Martin Morgan and Benilton Carvalho. Since then, you might have worked on other R packages, shiny applications, etc. You might have also answered questions on the Bioconductor support website, reported bugs or opened issues in existing packages, joined the developers mailing list, joined the Bioconductor Slack workspace, etc. Ultimately, you could potentially present a poster or give a talk about the package you worked on last summer, but you’ll need to coordinate with your team members and/or lab principal investigator.
 
 
 

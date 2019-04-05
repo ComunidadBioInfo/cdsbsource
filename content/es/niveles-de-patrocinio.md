@@ -1,7 +1,6 @@
 ---
 author: ["admin"]
 date: 2018-05-09 16:06:58+00:00
-link: http://www.comunidadbioinfo.org/niveles-de-patrocinio/
 slug: niveles-de-patrocinio
 title: Niveles de patrocinio
 ---
@@ -9,7 +8,7 @@ title: Niveles de patrocinio
 Si deseas participar con nosotros contáctanos a [**cdsbmexico@gmail.com**](mailto:cdsbmexico@gmail.com)
 
 
-#### **NIVEL DIAMANTE **(__________)
+#### **NIVEL DIAMANTE** (*****)
 
 
 **$100,000 pesos o más**
@@ -46,7 +45,7 @@ Si deseas participar con nosotros contáctanos a [**cdsbmexico@gmail.com**](mail
 
 
 
-#### **NIVEL PLATINO** (________)
+#### **NIVEL PLATINO** (****)
 
 
 **$50,000 - $70,000 pesos**
@@ -80,7 +79,7 @@ Si deseas participar con nosotros contáctanos a [**cdsbmexico@gmail.com**](mail
 
 
 
-#### **NIVEL ORO** (______)
+#### **NIVEL ORO** (***)
 
 
 **$20,000 - $30,000 pesos**
@@ -108,7 +107,7 @@ Si deseas participar con nosotros contáctanos a [**cdsbmexico@gmail.com**](mail
 
 
 
-#### **NIVEL PLATA** (____)
+#### **NIVEL PLATA** (**)
 
 
 **$10,000 - $15,000 pesos**
@@ -133,7 +132,7 @@ Si deseas participar con nosotros contáctanos a [**cdsbmexico@gmail.com**](mail
 
 
 
-#### **NIVEL BRONCE** (__)
+#### **NIVEL BRONCE** (*)
 
 
 **$3,000 - $5,000 pesos**

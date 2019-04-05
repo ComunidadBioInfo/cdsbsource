@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "CDSB"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -45,6 +45,8 @@ preserveTaxonomyNames = true
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON" ]
   section = [ "HTML", "RSS" ]
+  taxonomy = [ "HTML", "RSS" ]
+  taxonomyTerm = [ "HTML", "RSS" ]
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday

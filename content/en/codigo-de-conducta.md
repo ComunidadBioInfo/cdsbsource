@@ -1,7 +1,6 @@
 ---
 authors: ["admin"]
 date: 2018-04-10 15:09:34+00:00
-link: http://www.comunidadbioinfo.org/codigo-de-conducta/
 slug: codigo-de-conducta
 title: Code of conduct
 ---

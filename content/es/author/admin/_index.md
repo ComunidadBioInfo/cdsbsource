@@ -16,7 +16,7 @@ role = "Comunidad de Desarrolladores de Software en Bioinformática"
 organizations = [ { name = "", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Queremos ayudarte a acquirir las habilidades necesarias para contribuir software libre para la bioinformática usando R"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "cdsbmexico@gmail.com"
@@ -25,7 +25,8 @@ email = "cdsbmexico@gmail.com"
 interests = [
   "R",
   "Bioinformática",
-  "Educación"
+  "Educación",
+  "Diversidad"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -45,6 +46,11 @@ user_groups = ["Comunidad"]
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
+  icon = "home"
+  icon_pack = "fas"
+  link = "https://comunidadbioinfo.github.io/"
+
+[[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/CDSBMexico"
@@ -53,6 +59,11 @@ user_groups = ["Comunidad"]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/ComunidadBioInfo"
+  
+[[social]]
+  icon = "slack"
+  icon_pack = "fab"
+  link = "https://comunidadbioinfo.slack.com"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,6 +74,6 @@ user_groups = ["Comunidad"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+¡Bienvenidos a la Comunidad de Desarrolladores de Software en Bioinformática (CDSB)!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Somos un grupo interesado en ayudarle a miembros de países Latino Americanos en el proceso de acquirir las habilidades necesarias para contribuir a la comunidad de software libre. Hoy en día se usa [R](https://cran.r-project.org/) en muchas industrias y desde el inicio fue adoptado por académicos. Mientras los usuarios de `R` van familiarizandose con el lenguaje terminan escribiendo funciones que luego son agrupadas y compartidas vía paquetes. Estos paquetes son distribuidos vía [GitHub](https://github.com/) o vía repositorios más formales como lo son [CRAN](https://cran.r-project.org/) y [Bioconductor](http://bioconductor.org/). `Bioconductor` es un proyecto centrado alrededor de software libre para la bioinformática hecho con `R` y ha sido de gran utilidad para varios de nosotros. Como parte de la CDSB buscamos aumentar la representación de países Latino Americanos en las comunidades de desarrolladores de software libre y de esa forma aumentar su diversidad. Por lo tanto, nuestro objetivo principal es enseñarle a Latino Americanos como hacer paquetes de `R` para que los compartan vía GitHub, CRAN y Bioconductor.

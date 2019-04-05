@@ -1,7 +1,6 @@
 ---
 authors: ["admin"]
 date: 2018-03-21 18:12:26+00:00
-link: http://www.comunidadbioinfo.org/talleres-internacionales-de-bioinformatica-2018/
 slug: talleres-internacionales-de-bioinformatica-2018
 title: Talleres Internacionales de Bioinformática 2018
 categories: ["Events"]
@@ -11,17 +10,9 @@ featured: true
 **El Nodo Nacional de Bioinformática (NNB-UNAM) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a**
 
 
-
-
-
-### 
-
-
-
-
-### TIB2018: R para todos
-&
-Latin American R/Bioconductor Developers Workshop
+## TIB2018: R para todos
+## &
+## Latin American R/Bioconductor Developers Workshop
 
 
 
@@ -68,8 +59,11 @@ Los talleres están organizados por:
 
 
 [T1: Taller de introducción a R y R Studio](http://congresos.nnb.unam.mx/TIB2018/t1-taller-de-introduccion-a-r-y-r-studio/)
+
 [T2: Análisis exploratorio y estadístico de datos biológicos usando R](http://congresos.nnb.unam.mx/TIB2018/t2-analisis-exploratorio-y-estadistico-de-datos-biologicos-usando-r/)
+
 [T3: Taller de RNA-Seq: Análisis exploratorio de genes y expresión diferencial](http://congresos.nnb.unam.mx/TIB2018/t3-analisis-exploratorio-de-genes-y-expresion-diferencial/)
+
 [T4: Taller de NGS: Ensamble y Anotación de Genomas](http://congresos.nnb.unam.mx/TIB2018/t4-taller-de-ngs-ensamble-y-anotacion-de-genomas/)
 
 [Regístrate](http://congresos.nnb.unam.mx/TIB2018/registro)

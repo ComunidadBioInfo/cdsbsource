@@ -1,9 +1,8 @@
 ---
 authors: ["admin"]
 date: 2018-03-22 12:40:21+00:00
-link: http://www.comunidadbioinfo.org/r-bioconductor-developers-workshop-2018/
 slug: r-bioconductor-developers-workshop-2018
-title: Latin American R/BioConductor Developers Workshop 2018
+title: Taller de Desarrolladores Latino Americanos de R/BioConductor 2018
 categories: ["Events"]
 featured: true
 ---
@@ -25,19 +24,19 @@ featured: true
 
 
  	
-  * Conference webpage: [http://www.comunidadbioinfo.org/r-bioconductor-developers-workshop-2018/](http://www.comunidadbioinfo.org/r-bioconductor-developers-workshop-2018/)
+  * Página del taller: [https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/](https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/)
 
  	
-  * Level: **intermediate - advanced**
+  * Nivel: **intermedio - avanzado**
 
  	
-  * Language: **english**
+  * Languaje: **ínglés**
 
  	
-  * When: July 30 - August 3, 2018
+  * Cuando: Julio 30 - Augusto 3, 2018
 
  	
-  * Where: Auditorium of the [Center for Genomic Sciences](http://www.ccg.unam.mx/en), Cuernavaca, Mexico
+  * Donde: Auditorio del [Centro de Ciencias Genómicas](http://www.ccg.unam.mx), Cuernavaca, Mexico
 
  	
   * Twitter: [#CDSBMexico](https://twitter.com/search?f=tweets&q=%23CDSBMexico)
@@ -49,9 +48,7 @@ featured: true
   * GitHub: [https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018](https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018)
 
  	
-  * 
-
-[Regístrate](http://congresos.nnb.unam.mx/TIB2018/registro)
+  * [Regístrate](http://congresos.nnb.unam.mx/TIB2018/registro)
 
 
 
@@ -98,484 +95,127 @@ Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos
 
 
 
-## Introduction
-
-
-In recent years, biology has seen a rise in the use of technologies that enable high-throughput, quantitative, data-rich profiling of cellular states. As a result, the field now faces computational challenges to analyse such data. The [R](https://cran.r-project.org/)/[Bioconductor](http://bioconductor.org/) project is an open source, open development software platform that provides tools to translate complex data sets into biological knowledge.
-
-This workshop is aimed at students and researchers interested in the analysis of biological data. We encourage applications from experts in diverse disciplines, including but not limited to biologists, bioinformaticians, data scientists, software engineers and programmers and R users at large. The main goals of the workshop are:
-
-
-
- 	
-  1. Teach participants the principles of reproducible data science through the development of R/Bioconductor packages.
-
- 	
-  2. Turn bioinformatic software users into bioinformatic software developers.
-
- 	
-  3. Foster the exchange of expertise and establish multidisciplinary collaborations.
-
- 	
-  4. Create a community of Latin American scientists committed to the development of software and computational pipelines for biological data analysis.
-
- 	
-  5. Help train bioinformatics instructors that can continue to grow in their local communities.
-
-
-This workshop is part of a long-term project to create a community of developers from Latin America. We hope to hold regular meetings in the future (similar to BioC, EuroBioc and BioCAsia) where attendees present their own software contributions. To provide a welcoming environment please follow our code of conduct.
-
-
-
-
-
-
-
-
-
-
-
-
-## Program
-
-
-[Materials](https://github.com/ComunidadBioInfo/rbioc18)
-<table > 
-
-<tr class="header" >
-**Day 1: July 30, 2018**
-</tr>
-
-<tbody >
-<tr class="odd" >
-
-<td >09:00 - 10:00
-</td>
-
-<td >Inauguration in the main Auditorium
-</td>
-
-<td >[Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/)
-</td>
-</tr>
-<tr class="even" >
-
-<td >10:00 - 10:30
-</td>
-
-<td >Keynote Lecture I: From learning to using to teaching to developing R
-</td>
-
-<td > 
-
-[Leonardo Collado-Torres](http://lcolladotor.github.io)
-</td>
-</tr>
-<tr class="odd" >
-
-<td >10:00 - 10:30
-</td>
-
-<td >Talk I: Example of Bioinformatics in Mexico
-</td>
-
-<td >[Daniel Piñero](http://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero)
-</td>
-</tr>
-<tr class="even" >
-
-<td >11:00 - 11:20
-</td>
-
-<td >Coffee break
-</td>
-</tr>
-<tr class="odd" >
-
-<td >11:20 - 12:20
-</td>
-
-<td >Programming with R
-- Loops
-- Functions
-- Creating a package
-</td>
-
-<td >[Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/)
-</td>
-</tr>
-<tr class="even" >
-
-<td >12:20 - 12:40
-</td>
-
-<td >Break
-</td>
-</tr>
-<tr class="odd" >
-
-<td >12:40 - 14:00
-</td>
-
-<td >Version control with git and GitHub
-</td>
-
-<td >[Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/)
-</td>
-</tr>
-<tr class="even" >
-
-<td >14:00 - 15:00
-</td>
-
-<td >Lunch break
-</td>
-</tr>
-<tr class="odd" >
-
-<td >15:00 - 15:45
-</td>
-
-<td >Open source software projects and collaborative development
-</td>
-
-<td >[Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/)
-</td>
-</tr>
-<tr class="even" >
-
-<td >15:45 - 17:00
-</td>
-
-<td >Package documentation
-</td>
-
-<td >[Alejandro Reyes](http://alejandroreyes.org/)
-</td>
-</tr>
-<tr class="odd" >
-
-<td >17:00 -
-</td>
-
-<td >Welcome cocktail
-</td>
-</tr>
-<tr class="even" >
-
-<td >**Day 2: July 31, 2018**
-</td>
-</tr>
-<tr class="odd" >
-
-<td >9:00 - 10:00
-</td>
-
-<td >Keynote Lecture II
-</td>
-
-<td >[Martin Morgan](https://www.roswellpark.org/martin-morgan)
-</td>
-</tr>
-<tr class="even" >
-
-<td >10:00 - 10:30
-</td>
-
-<td >Talk II: Example of Bioinformatics in Mexico: Using R-Shiny in Agrobiodiversity
-</td>
-
-<td >[Alejandro Ponce-Mendoza](https://github.com/APonce73)
-</td>
-</tr>
-<tr class="odd" >
-
-<td >10:30 - 11:00
-</td>
-
-<td >Coffee break
-</td>
-</tr>
-<tr class="even" >
-
-<td >11:00 - 12:00
-</td>
-
-<td >Best practices for writing efficient functions
-</td>
-
-<td >[Martin Morgan](https://www.roswellpark.org/martin-morgan)
-</td>
-</tr>
-<tr class="odd" >
-
-<td >12:00 - 12:30
-</td>
-
-<td >Break
-</td>
-</tr>
-<tr class="even" >
-
-<td >12:30 - 14:00
-</td>
-
-<td >Bioconductor: core package, common objects and extending classes
-</td>
-
-<td >[Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722)
-</td>
-</tr>
-<tr class="odd" >
-
-<td >14:00 - 15:00
-</td>
-
-<td >Lunch break
-</td>
-</tr>
-<tr class="even" >
-
-<td >15:00 - 17:00
-</td>
-
-<td >S4 - system for object oriented programming
-</td>
-
-<td >[Martin Morgan](https://www.roswellpark.org/martin-morgan)
-</td>
-</tr>
-<tr class="odd" >
-
-<td >17:00 - 18:00
-</td>
-
-<td >Poster session
-</td>
-</tr>
-<tr class="even" >
-
-<td >**Day 3: August 1, 2018**
-</td>
-</tr>
-<tr class="odd" >
-
-<td >9:00 - 10:00
-</td>
-
-<td >Collaborative project organization and introduction
-</td>
-
-<td >[Daniela Ledezma-Tejeida](https://loop.frontiersin.org/people/416212/overview)
-</td>
-</tr>
-<tr class="even" >
-
-<td >10:00 - 10:30
-</td>
-
-<td >Vignette writing with markdown/BiocStyle
-</td>
-
-<td >[Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722)
-</td>
-</tr>
-<tr class="odd" >
-
-<td >10:30 - 10:50
-</td>
-
-<td >Coffee break
-</td>
-</tr>
-<tr class="even" >
-
-<td >10:50 - 11:30
-</td>
-
-<td >Unit testing and R CMD check
-</td>
-
-<td >[Martin Morgan](https://www.roswellpark.org/martin-morgan)
-</td>
-</tr>
-<tr class="odd" >
-
-<td >11:30 - 12:10
-</td>
-
-<td >Rcpp (Adding C/C++ code to R packages)
-</td>
-
-<td >[Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722)
-</td>
-</tr>
-<tr class="even" >
-
-<td >12:10 - 12:30
-</td>
-
-<td >Break
-</td>
-</tr>
-<tr class="odd" >
-
-<td >12:30 - 14:00
-</td>
-
-<td >Debugging and Parallelization
-</td>
-
-<td >[Martin Morgan](https://www.roswellpark.org/martin-morgan)
-</td>
-</tr>
-<tr class="even" >
-
-<td >14:00 - 15:00
-</td>
-
-<td >Lunch break
-</td>
-</tr>
-<tr class="odd" >
-
-<td >15:00 - 17:00
-</td>
-
-<td >Working on a Collaborative Project
-</td>
-</tr>
-<tr class="even" >
-
-<td >**Day 4: August 2, 2018**
-</td>
-</tr>
-<tr class="odd" >
-
-<td >9:00 - 10:00
-</td>
-
-<td >Keynote Lecture IV
-</td>
-
-<td >[Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en)
-</td>
-</tr>
-<tr class="even" >
-
-<td >10:00 - 10:30
-</td>
-
-<td >Talk III: RLadies Community Experience
-</td>
-
-<td >[Teresa Ortíz](http://www.teresa-ortiz.com/eng)
-</td>
-</tr>
-<tr class="odd" >
-
-<td >10:30 - 11:00
-</td>
-
-<td >Coffee break
-</td>
-</tr>
-<tr class="even" >
-
-<td >11:00 - 17:00
-</td>
-
-<td >Working on a Collaborative Project
-</td>
-</tr>
-<tr class="odd" >
-
-<td >**Day 5: August 3, 2018**
-</td>
-</tr>
-<tr class="even" >
-
-<td >9:00 - 10:00
-</td>
-
-<td >Working on a Collaborative Project
-</td>
-</tr>
-<tr class="odd" >
-
-<td >10:00 - 10:30
-</td>
-
-<td >Teams: Concluding remarks about the experience
-</td>
-</tr>
-<tr class="even" >
-
-<td >10:30 - 11:00
-</td>
-
-<td >Coffee break
-</td>
-</tr>
-<tr class="odd" >
-
-<td >11:00 - 12:00
-</td>
-
-<td >Presentation of the package developed
-Learned lessons during the project collaborative develop.
-</td>
-</tr>
-<tr class="even" >
-
-<td >12:00 - 13:00
-</td>
-
-<td >Evaluate projects and award ceremony
-</td>
-</tr>
-<tr class="odd" >
-
-<td >12:00 - 13:00
-</td>
-
-<td >Closing remarks and community building
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-[Instructors](https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018/blob/master/R-Bioconductor-2018_Program.rmd#instructors)
-[Organizing Committee](https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018/blob/master/R-Bioconductor-2018_Program.rmd#organizing-committee)
-[Code of Conduct](https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018/blob/master/R-Bioconductor-2018_Program.rmd#code-of-conduct) (en [Español](http://www.comunidadbioinfo.org/codigo-de-conducta/))
-
-
-## 
-
-
-
+## Introducción
+
+
+En años recientes, la biología ha visto un aumento en el uso de tecnologías que permiten generar datos de forma masiva, cuantitativa y que permiten hacer perfiles de estados celulares. Como resultado, el campo ahora se enfrenta con retos relacionados a la cantidad de datos. El proyecto de  [R](https://cran.r-project.org/)/[Bioconductor](http://bioconductor.org/) es una plataforma para compartir software libre que provee de herramientas para traducir la complejidad de los datos en conocimiento biológico.
+
+Este taller está enfocado hacia alumnos e investigadores interesados en analizar datos biológicos. Queremos promover solicitudes de expertos en diversas disciplinas, incluyendo mas no limitandonos a biológos, bioinformáticos, científicos de datos, ingenieros de software, programadores y usuarios de R en general. Los principales objetivos del taller son:
+
+1. Enseñarle a los participantes los principios de la ciencia de datos vía el desarrollo de paquetes de R/Bioconductor.
+
+2. Transformar usuarios de software de bioinformática en desarrolladores de software de bioinformática.
+
+3. Fomentar el intercambio de conocimiento y establecer colaboraciones multidisciplinarias.
+
+4. Crear una comunidad de científicos Latino Americanos comprometidos con el desarrollo de software para análisis de datos biológicos.
+
+5. Entrenar a instructores en bioinformática para que puedan fomentar el crecimiendo de sus comunidades locales.
+
+
+Este taller es parte de un proyecto a largo plazo para crear una comunidad Latino Americana de desarrolladores de software. Esperamos poder organizar talleres en el futuro de forma sistemática (similar a BioC, EuroBioC y BioCAsia) donde los participantes presenten sus contribuciones de software. Queremos proveer un ambiente amigable para todos así que les pedimos que sigan el código de conducta.
+
+
+
+## Programa
+
+
+[Materiales](https://github.com/ComunidadBioInfo/rbioc18)
+
+| **Día 1: July 30, 2018**  |      |      |
+| ------------------ | ---------------------------------- | ----------------------------- |
+| 09:00 - 10:00 | Inauguration in the main auditorium  |  |
+| 10:00 - 10:30 | Keynote Lecture I: From learning to using to teaching to developing R | [Leonardo Collado-Torres](http://lcolladotor.github.io/)     |
+| 10:30 - 11:00 | Talk I: Example of Bioinformatics in Mexico | [Daniel Piñero](http://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero) |
+| 11:00 - 11:20 | Coffee break  |      |
+| 11:20 - 12:20 | Creating a package | [Alejandro Reyes](http://alejandroreyes.org/) |
+| 12:20 - 12:40 | Break    |      |
+| 12:40 - 14:00 | Version control with git and GitHub | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
+| 14:00 - 15:30 | Lunch break     |      |
+| 15:30 - 16:15 | Open source software projects and collaborative development  | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
+| 16:45 - 17:30 | Package documentation | [Alejandro Reyes](http://alejandroreyes.org/)  |
+| 17:30 -       | Welcome cocktail |      |
+| **Día 2: July 31, 2018** |      |      |
+| 9:00 - 10:00  | Keynote Lecture II | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
+| 10:00 - 10:30 | Talk II: Example of Bioinformatics in Mexico: Using R-Shiny in Agrobiodiversity      | [Alejandro Ponce-Mendoza](https://github.com/APonce73) |
+| 10:30 - 11:00 | Coffee break  |      |
+| 11:00 - 12:15 | Best practices for writing efficient functions | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
+| 12:15 - 13:45 | Bioconductor: core package, common objects and extending classes |[Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
+| 13:45 - 15:30 | Lunch break     |      |
+| 15:30 - 17:30 | S4 - system for object oriented programming | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
+| 17:30 - 18:30 | Poster session |      |
+| **Día 3: August 1, 2018** |      |      |
+| 9:00 - 10:00  | Collaborative project organization and introduction | [Daniela Ledezma-Tejeida](https://loop.frontiersin.org/people/416212/overview) |
+| 10:00 - 10:30 |Vignette writing with markdown/BiocStyle | [Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
+| 10:30 - 10:50 |Coffee break/Event Photo (to be confirmed)|      |
+| 10:50 - 11:30 |Unit testing and R CMD check| [Martin Morgan](https://www.roswellpark.org/martin-morgan)  |
+| 11:30 - 12:10 |Rcpp (Adding C/C++ code to R packages)| [Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
+| 12:10 - 12:30 |Break|  |
+| 12:30 - 14:00 |Debugging and Parallelization| [Martin Morgan](https://www.roswellpark.org/martin-morgan)  |
+| 14:00 - 15:30 |Lunch break|      |
+| 15:30 - 17:30 |Working on a Collaborative Project|  |
+| **Día 4: August 2, 2018** |      |      |
+| 9:00 - 10:00  | Keynote Lecture IV | [Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en)|
+| 10:00 - 10:30 | Talk III: RLadies Community Experience | [Teresa Ortíz](http://www.teresa-ortiz.com/eng) |
+| 10:30 - 11:00 | Coffee break  |      |
+| 11:00 - 14:00 | Working on a Collaborative Project |  |
+| 14:00 - 15:30 |Lunch break|      |
+| 15:30 - 17:30 | Working on a Collaborative Project |  |
+| **Día 5: August 3, 2018** |      |      |
+| 9:00 - 10:00  | Working on a Collaborative Project and recovery from La Palapa |
+| 10:00 - 10:30  | Working on a Collaborative Project |  |
+| 10:30 - 11:00 | Coffee break  |      |
+| 11:00 - 11:30 | Working on a Collaborative Project |  |
+| 11:30 - 12:30 | Presentations of collaborative projects |      |
+| 12:30 - 13:00 | Closing remarks and community building |      |
+
+
+## Instructores:
+
+- [Martin Morgan](https://www.roswellpark.org/martin-morgan) (Roswell Park Comprehensive Cancer Center, Buffalo, USA)
+  
+- [Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en) (University of Campinas, Campinas, Brazil)
+  
+- [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) (National Laboratory of Genomics for Biodiversity, Irapuato, Mexico)
+
+
+## Comité organizador:
+
+- [Heladia Salgado](https://www.linkedin.com/in/heladia-salgado-bb122954/) (Center for Genomic Sciences, Cuernavaca, Mexico)
+  
+- [Leonardo Collado-Torres](http://lcolladotor.github.io) (Lieber Institute for Brain Development, Baltimore, USA)
+  
+- [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/) (International Laboratory for Human Genome Research, Juriquilla, Mexico)
+  
+- [Alejandro Reyes](http://alejandroreyes.org/) (Dana-Farber Cancer Institute, Boston, USA)
+
+- [Delfino García](https://) (Center for Genomic Sciences, Cuernavaca, Mexico)
+  
+- [Daniela Ledezma-Tejeida](https://loop.frontiersin.org/people/416212/overview) (Center for Genomic Sciences, Cuernavaca, Mexico)
+  
+- [Laura Gómez](http://schatzlab.cshl.edu/people/lgomezro/) (Center for Genomic Sciences, Cuernavaca, Mexico)
+
+## [Código de Conducta](../../codigo-de-conducta/)
 
 
 ## Patrocinadores
 
 
-[Sé nuestro **patrocinador**](http://www.comunidadbioinfo.org/niveles-de-patrocinio/)
+[Sé nuestro **patrocinador**](../../niveles-de-patrocinio/)
 <table width="100%" style="margin-bottom: 0px;" border="0" >
 <tbody style="border-bottom: none;" >
 <tr >
 
-<td width="20%" style="border-top: none;" >[![](http://www.comunidadbioinfo.org/wp-content/uploads/2018/03/SoIBio_logo_HR-Web-e1524580239187.png)](http://www.soibio.org)
+<td width="20%" style="border-top: none;" >[![](/img/SoIBio_logo_HR-Web-e1524580239187.png)](http://www.soibio.org)
 </td>
 
-<td width="30%" style="border-top: none;" >[![Centro de Ciencias Genómicas UNAM](http://www.comunidadbioinfo.org/wp-content/uploads/2018/03/CCG_Logo_HR-300x114.png)](http://www.ccg.unam.mx)
+<td width="30%" style="border-top: none;" >[![Centro de Ciencias Genómicas UNAM](/img/CCG_Logo_HR-300x114.png)](http://www.ccg.unam.mx)
 </td>
 
-<td width="35%" style="border-top: none;" >[![](http://www.comunidadbioinfo.org/wp-content/uploads/2018/03/LCG_Logo_HR-white-300x94.png)](http://www.lcg.unam.mx)
+<td width="35%" style="border-top: none;" >[![](/img/LCG_Logo_HR-white.png)](http://www.lcg.unam.mx)
 </td>
 
-<td width="15%" style="border-top: none;" >[![](http://www.comunidadbioinfo.org/wp-content/uploads/2018/03/logo-liigh-unam.png)](http://liigh.unam.mx/)
+<td width="15%" style="border-top: none;" >[![](/img/logo-liigh-unam.png)](http://liigh.unam.mx/)
 </td>
 </tr>
 </tbody>
@@ -584,10 +224,10 @@ Learned lessons during the project collaborative develop.
 <tbody style="border: none;" >
 <tr >
 
-<td width="30%" style="border-top: none;" >[![](http://www.comunidadbioinfo.org/wp-content/uploads/2018/03/RConsortium_Horizontal_Pantone-300x68.png)](https://www.rstudio.com/)
+<td width="30%" style="border-top: none;" >[![](/img/RConsortium_Horizontal_Pantone-768x173.png)](https://www.r-consortium.org/)
 </td>
 
-<td style="border-top: none;" >[![](http://www.comunidadbioinfo.org/wp-content/uploads/2018/03/wintergenomics-1-150x124.png)](http://wintergenomics.com/)
+<td style="border-top: none;" >[![](/img/wintergenomics-1.png)](http://wintergenomics.com/)
 </td>
 
 <td style="border-top: none;" >

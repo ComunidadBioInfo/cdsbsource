@@ -9,7 +9,7 @@
   weight = 10
   
 [[main]]
-  name = "Quienes somos"
+  name = "Quiénes somos"
   url = "/quienes-somos"
   weight = 15
 

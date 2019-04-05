@@ -1,7 +1,6 @@
 ---
 author: ["admin"]
 date: 2018-05-09 16:06:58+00:00
-link: http://www.comunidadbioinfo.org/niveles-de-patrocinio/
 slug: niveles-de-patrocinio
 title: Sponsorship levels
 ---
@@ -9,179 +8,131 @@ title: Sponsorship levels
 If you want to sponsor us please get in touch via [**cdsbmexico@gmail.com**](mailto:cdsbmexico@gmail.com)
 
 
-#### **DIAMOND LEVEL **(__________)
+#### **DIAMOND LEVEL** (*****)
 
 
 **$100,000 pesos or more**
 
 
 
- 	
-  * Reconocimiento como patrocinador único de uno de los talleres del programa, incluyendo la oportunidad de dirigir la palabra a los participantes al inicio y cierre del evento.
+* Recognition as the sole sponsor of one of the workshops from the program, including the opportunity to talk to the participants at the opening and closing ceremonies of the event.
 
- 	
-  * Podrá colocar su logotipo como patrocinador en un taller seleccionado.
+* You will be able to display your logo as a sponsor in a workshop of your choice.
 
- 	
-  * Reconocimiento de patrocinio en dos de los artículos promocionales.
+* Recognition as a sponsor in two of the promotional items.
 
- 	
-  * Reconocimiento de patrocinio en nuestra página web del evento.
+* Recognition as a sponsor in our event website.
 
- 	
-  * Reconocimiento de patrocinio en los videos realizados previos y durante el evento.
+* Recognition as a sponsor in the videos made prior to and during the event.
 
- 	
-  * Reconocimiento de patrocinio en nuestras redes sociales.
+* Recognition as a sponsor on our social media.
 
- 	
-  * Podrá colocar dos módulos de exhibición durante el evento.
+* You will allowed to display two exhibition modules during the event.
 
- 	
-  * 5 inscripciones completas de cortesía en cualquier taller del evento.
+* Five full registrations as a courtesy for any of the workshops of the event.
 
- 	
-  * Una mesa reservada en las principales actividades sociales del evento para 2 personas.
+* A reserved table for two people during the main social activities of the event.
 
 
 
 
-#### **PLATINUM LEVEL** (________)
+#### **PLATINUM LEVEL** (****)
 
 
 **$50,000 - $70,000 pesos**
 
 
+* You will be able to display your logo as a sponsor in a workshop of your choice.
 
- 	
-  * Podrá colocar su logotipo como patrocinador en un taller seleccionado.
+* Recognition as a sponsor in two of the promotional items.
 
- 	
-  * Reconocimiento de patrocinio en dos de los artículos promocionales.
+* Recognition as a sponsor in our event website.
 
- 	
-  * Reconocimiento de patrocinio en nuestra página web del evento.
+* Recognition as a sponsor in the videos made prior to and during the event.
 
- 	
-  * Reconocimiento de patrocinio en los videos realizados previos y durante el evento.
+* Recognition as a sponsor on our social media.
 
- 	
-  * Reconocimiento de patrocinio en nuestras redes sociales.
+* You will allowed to display two exhibition modules during the event.
 
- 	
-  * Podrá colocar dos módulos de exhibición durante el evento.
+* Three full registrations as a courtesy for any of the workshops of the event.
 
- 	
-  * 3 inscripciones completas de cortesía en cualquier taller del evento.
-
- 	
-  * Una mesa reservada en las principales actividades sociales del evento para 2 personas.
+* A reserved table for two people during the main social activities of the event.
 
 
 
-
-#### **GOLD LEVEL** (______)
+#### **GOLD LEVEL** (***)
 
 
 **$20,000 - $30,000 pesos**
 
 
+* Recognition as a sponsor in our event website.
 
- 	
-  * Reconocimiento de patrocinio en nuestra página web del evento.
+* Recognition as a sponsor in the videos made prior to and during the event.
 
- 	
-  * Reconocimiento de patrocinio en los videos realizados previos y durante el evento.
+* Recognition as a sponsor on our social media.
 
- 	
-  * Reconocimiento de patrocinio en nuestras redes sociales.
+* You will allowed to display one exhibition module during the event.
 
- 	
-  * Podrá colocar un módulo de exhibición durante el evento.
+* One full registration as a courtesy for any of the workshops of the event.
 
- 	
-  * 1 inscripciones completas de cortesía en cualquier taller del evento.
-
- 	
-  * Una mesa reservada en las principales actividades sociales del evento para 2 personas.
+* A reserved table for two people during the main social activities of the event.
 
 
 
-
-#### **SILVER LEVEL** (____)
+#### **SILVER LEVEL** (**)
 
 
 **$10,000 - $15,000 pesos**
 
 
+* Recognition as a sponsor in our event website.
 
- 	
-  * Reconocimiento de patrocinio en nuestra página web del evento.
+* Recognition as a sponsor in the videos made prior to and during the event.
 
- 	
-  * Reconocimiento de patrocinio en los videos realizados previos y durante el evento.
+* Recognition as a sponsor on our social media.
 
- 	
-  * Reconocimiento de patrocinio en nuestras redes sociales.
+* You will allowed to display one exhibition module during the event.
 
- 	
-  * Podrá colocar un módulo de exhibición durante el evento.
-
- 	
-  * Una mesa reservada en las principales actividades sociales del evento para una persona.
+* A reserved table for one person during the main social activities of the event.
 
 
 
 
-#### **BRONCE LEVEL** (__)
+#### **BRONCE LEVEL** (*)
 
 
 **$3,000 - $5,000 pesos**
 
 
+* Recognition as a sponsor in our event website.
 
- 	
-  * Reconocimiento de patrocinio en nuestra página web del evento.
+* Recognition as a sponsor in the videos made prior to and during the event.
 
- 	
-  * Reconocimiento de patrocinio en los videos realizados previos y durante el evento.
-
- 	
-  * Una mesa reservada en las principales actividades sociales del evento para una persona.
-
+* A reserved table for one person during the main social activities of the event.
 
 
 
 #### **DONATIONS IN KIND**
 
-
-Las instituciones u organizaciones que deseen ser patrocinadoras con donativos en especie (los donativos NO DEBEN incluir publicidad del patrocinador), lo pueden hacer proporcionando los siguientes servicios y objetos:
-
+The organizations or institutions that wish to be sponsors with donations in kind (the donations CANNOT include publicity of the sponsor), can do so by providing the following services or items:
 
 
- 	
-  1. Servicio de fotografía durante el evento.
+1. Photography service during the event.
 
- 	
-  2. Servicio de realización de videos durante el evento.
+2. Video service during the event.
 
- 	
-  3. Artículos para el servicio de cafetería: café, galletas, fruta, azúcar, servilletas, etc.
+3. Cafeteria items: coffee, cookies, fruit, sugar, napkins, etc.
 
- 	
-  4. Botellas o garrafones de agua sin publicidad de la empresa.
+4. Water containers or bottles without publicity from the company providing them.
 
- 	
-  5. Mobiliario exterior: carpa, sillas, mesas
+5. Exterior furniture: carp, chairs, tables.
 
- 	
-  6. Artículos de papelería: plumas, lápices, plumones para pizarrón, post-it, hojas blancas.
+6. Office items: pens, pencils, board markers, post-it, blank paper.
 
- 	
-  7. Artículos de limpieza: jabón, papel, bolsas para basura, gel antibacterial.
+7. Items for cleaning: soap, paper, trash bags, antibacterial gel.
 
- 	
-  8. Cualquier otro artículo puede ser evaluado.
+8. Any other item can be evaluated.
 
+The donations in kind will be recognized similar to the levels described above based on the estimated amount in cash these donations correspond to.
 
-Los donativos en especie recibirán un reconocimiento en los niveles equivalentes a la cantidad estimada en efectivo, descritos anteriormente.

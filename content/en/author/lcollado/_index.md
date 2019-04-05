@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Leonardo Collado-Torres"
+name = "Leonardo Collado-Torres, PhD"
 
 # Username (this should match the folder name)
 authors = ["lcollado"]
@@ -16,7 +16,7 @@ role = "Staff Scientist"
 organizations = [ { name = "Lieber Institute for Brain Development", url = "https://www.libd.org/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Brain genomics #rstats coder working w/ @andrewejaffe @LieberInstitute. @lcgunam @jhubiostat @jtleek alumni. @LIBDrstats @CDSBMexico co-founder."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "leo.collado@libd.org"
@@ -56,6 +56,11 @@ user_groups = ["Founders", "2019 Instructors", "2018 Instructors"]
   link = "mailto:leo.collado@libd.org"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
+  icon = "home"
+  icon_pack = "fas"
+  link = "http://lcolladotor.github.io"
+  
+[[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/fellgernon"
@@ -79,4 +84,4 @@ user_groups = ["Founders", "2019 Instructors", "2018 Instructors"]
 
 +++
 
-Leo is...
+[Leonardo](http://lcolladotor.github.io/) uses `R` daily and contributes packages to the Bioconductor project as part of his work with [Andrew Jaffe](http://aejaffe.com/) at [LIBD](https://www.libd.org/). He is interested in high-throughput genomics assays such as RNA-seq, developments in R and helping others get started in their R journey. Leonardo has been learning and teaching R since 2008 and is a co-founder of the [LIBD rstats club](http://research.libd.org/rstatsclub/#.XKVLJetKi50). 
