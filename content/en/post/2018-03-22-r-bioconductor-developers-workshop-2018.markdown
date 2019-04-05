@@ -17,7 +17,7 @@ featured: true
 
 
 
-#### Comunidad de Desarrolladores de Software en Bioinformática
+#### Community of Bioinformatics Software Developers
 
 
 
@@ -86,7 +86,7 @@ Technical requirements
 ## Introduction
 
 
-In recent years, biology has seen a rise in the use of technologies that enable high-throughput, quantitative, data-rich profiling of cellular states. As a result, the field now faces computational challenges to analyse such data. The [R](https://cran.r-project.org/)/[Bioconductor](http://bioconductor.org/) project is an open source, open development software platform that provides tools to translate complex data sets into biological knowledge.
+In recent years, biology has seen a rise in the use of technologies that enable high-throughput, quantitative, data-rich profiling of cellular states. As a result, the field now faces computational challenges to analyze such data. The [R](https://cran.r-project.org/)/[Bioconductor](http://bioconductor.org/) project is an open source, open development software platform that provides tools to translate complex data sets into biological knowledge.
 
 This workshop is aimed at students and researchers interested in the analysis of biological data. We encourage applications from experts in diverse disciplines, including but not limited to biologists, bioinformaticians, data scientists, software engineers and programmers and R users at large. The main goals of the workshop are:
 
@@ -96,7 +96,7 @@ This workshop is aimed at students and researchers interested in the analysis of
   1. Teach participants the principles of reproducible data science through the development of R/Bioconductor packages.
 
  	
-  2. Turn bioinformatic software users into bioinformatic software developers.
+  2. Turn bioinformatics software users into bioinformatics software developers.
 
  	
   3. Foster the exchange of expertise and establish multidisciplinary collaborations.

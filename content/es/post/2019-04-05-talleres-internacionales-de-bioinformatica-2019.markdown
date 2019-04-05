@@ -48,7 +48,7 @@ Cada taller tiene una duración de una semana.
 
 [T4. Análisis comparativo de genomas microbianos: Pangenómica y filoinformática](http://congresos.nnb.unam.mx/TIB2019/t4-analisis-comparativo-de-genomas-microbianos-pangenomica-y-filoinformatica/)
 
-[Taller CDSB: Cómo Crear y Ordenar Herramientas]()
+[Taller CDSB 2019: Cómo Crear y Ordenar Herramientas](https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/)
 
 **Desde Agosto 5 a Agosto 9, 2019**
 

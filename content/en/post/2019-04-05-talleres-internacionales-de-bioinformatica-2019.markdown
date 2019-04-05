@@ -51,7 +51,7 @@ Each workshop is a week long.
 
 [T4: Comparative genomics with microbes: pangenomics and phyloinformatics](http://congresos.nnb.unam.mx/TIB2019/t4-analisis-comparativo-de-genomas-microbianos-pangenomica-y-filoinformatica/)
 
-[CDSB Workshop: How to Build and Create Tidy Tools]()
+[CDSB Workshop 2019: How to Build and Create Tidy Tools](https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/)
 
 **From August 5 to August 9, 2019**
 
