@@ -49,7 +49,7 @@ The workshops are organized by:
 
 
 
-#### Talleres
+#### Workshops
 
 
 [T1: Introduction workshop R and R Studio](http://congresos.nnb.unam.mx/TIB2018/t1-taller-de-introduccion-a-r-y-r-studio/)
