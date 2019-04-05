@@ -4,7 +4,6 @@ date: 2018-03-22 12:40:21+00:00
 slug: r-bioconductor-developers-workshop-2018
 title: Taller de Desarrolladores Latino Americanos de R/BioConductor 2018
 categories: ["Events", "rstats", "rstatsES"]
-featured: true
 ---
 
 

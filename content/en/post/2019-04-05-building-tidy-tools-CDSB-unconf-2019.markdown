@@ -89,12 +89,17 @@ This workshop is part of a long-term project to create a community of developers
 | ------------------ | ---------------------------------- | ----------------------------- |
 | | Inauguration  |  |
 | | Welcome to CDSB: the history of our community and where we are going | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/)    |
-| | Building Tidy Tools | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Packages | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Testing | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | API Design | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | **Day 2: July 30, 2019** |      |      |
-| | Building Tidy Tools | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Functional Programing | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Errors | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Object Oriented Programming| [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 |  | (tentative) Poster session |      |
 | **Day 3: July 31, 2019** |      |      |
-| | Building Tidy Tools | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Tidy Evaluation | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Document and Share| [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | | Introduction to GitHub | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/) |
 | **Day 4: August 1, 2019** |      |      |
 | | Introduction to `runconf` | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |

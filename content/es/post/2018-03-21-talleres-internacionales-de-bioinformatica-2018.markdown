@@ -4,7 +4,6 @@ date: 2018-03-21 18:12:26+00:00
 slug: talleres-internacionales-de-bioinformatica-2018
 title: Talleres Internacionales de Bioinformática 2018
 categories: ["Events"]
-featured: true
 ---
 
 **El Nodo Nacional de Bioinformática (NNB-UNAM) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a**

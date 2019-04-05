@@ -4,7 +4,6 @@ date: 2018-03-21 18:12:26+00:00
 slug: talleres-internacionales-de-bioinformatica-2018
 title: 2018 International Workshop on Bioinformatics
 categories: ["Events"]
-featured: true
 ---
 
 **The National Node of Bioinformatics (NNB-UNAM) and the Community of Bioinformatics Software Developers (CDSB) invite you to**

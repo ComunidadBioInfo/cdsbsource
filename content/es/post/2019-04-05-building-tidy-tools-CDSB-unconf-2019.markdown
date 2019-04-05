@@ -2,7 +2,7 @@
 authors: ["admin"]
 date: 2019-04-05 13:30:00+00:00
 slug: building-tidy-tools-CDSB-runconf-2019
-title: "Taller CDSB 2019: Cómo Crear y Ordenar Herramientas"
+title: "Taller CDSB 2019: Cómo Crear y Ordenar Herramientas 'Tidy'"
 categories: ["Events", "rstats", "rstatsES"]
 featured: true
 ---
@@ -83,12 +83,17 @@ Este taller es parte de un proyecto a largo plazo para crear una comunidad Latin
 | ------------------ | ---------------------------------- | ----------------------------- |
 | | Inaguración  |  |
 | | Bienvenida a la CDSB: la historia de nuestra comunidad y hacia donde vamos | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/)    |
-| | Construir Herramientas Ordenadas | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Paquetes | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Pruebas | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Diseño de API | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | **Day 2: Julio 30, 2019** |      |      |
-| | Construir Herramientas Ordenadas | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Programación Funcional | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Erroress | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Programación Orientada a Objetos | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 |  | (por definir) Sesión de pósters |      |
 | **Day 3: Julio 31, 2019** |      |      |
-| | Construir Herramientas Ordenadas | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Evaluación "Tidy" | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| | Documentar y Compartir | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | | Introducción a GitHub | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/) |
 | **Day 4: Augusto 1, 2019** |      |      |
 | | Introducción a `runconf` | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
