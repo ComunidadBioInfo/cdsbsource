@@ -42,19 +42,19 @@ Cada taller tiene una duración de una semana.
 
 [T1: Introducción a R y RStudio](http://congresos.nnb.unam.mx/TIB2019/t1-introduccion-a-r-y-r-studio)
 
-[T2: Programación para principiantes con Python](http://congresos.nnb.unam.mx/TIB2019/t2-programacion-para-principiantes-con-python)
+[T2. Introducción al Ensamble y Anotación de Genomas](http://congresos.nnb.unam.mx/TIB2019/t2-introduccion-al-ensamble-y-anotacion-de-genomas/)
 
-[T3. Introducción al Ensamble y Anotación de Genomas](http://congresos.nnb.unam.mx/TIB2019/t3-introduccion-al-ensamble-y-anotacion-de-genomas/)
+[T3. Análisis comparativo de genomas microbianos: Pangenómica y filoinformática](http://congresos.nnb.unam.mx/TIB2019/t3-analisis-comparativo-de-genomas-microbianos-pangenomica-y-filoinformatica/)
 
-[T4. Análisis comparativo de genomas microbianos: Pangenómica y filoinformática](http://congresos.nnb.unam.mx/TIB2019/t4-analisis-comparativo-de-genomas-microbianos-pangenomica-y-filoinformatica/)
-
-[Taller CDSB 2019: Cómo Crear y Ordenar Herramientas 'Tidy'](https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/)
+[Taller CDSB 2019: Cómo Crear y Ordenar Herramientas 'Tidy'](http://congresos.nnb.unam.mx/TIB2019/cdsb-workshop-how-to-build-and-create-tidy-tools/)
 
 **Desde Agosto 5 a Agosto 9, 2019**
 
-[T5. Programación avanzada con Python](http://congresos.nnb.unam.mx/TIB2019/t5-programacion-avanzada-con-python)
+[T4. Asesoría para el Ensamble y anotación de tu Genoma de estudio](http://congresos.nnb.unam.mx/TIB2019/t4-asesoria-para-el-ensamble-y-anotacion-de-tu-genoma-de-estudio/)
 
-[T6. Asesoría para el Ensamble y anotación de tu Genoma de estudio](http://congresos.nnb.unam.mx/TIB2019/t6-asesoria-para-el-ensamble-y-anotacion-de-tu-genoma-de-estudio/)
+[T5: Programación para principiantes con Python](http://congresos.nnb.unam.mx/TIB2019/t5-programacion-para-principiantes-con-python)
+
+
 
 
 
