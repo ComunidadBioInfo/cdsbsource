@@ -57,7 +57,7 @@ Al final de todo, tres participantes de la CDSB completaron todo el proceso de s
 
 Todos enviaron su solicitud antes de la fecha límite del 15 de marzo del 2019, tal y como les insistimos que lo hicieran.
 
-Paran varias semanas y el 2 de abril estuvimos **encantados** de compartir que a los tres les aprobaron pláticas 🎙de 10 minutos y becas para viajar al congreso ✈️. Esta noticia es una victoria **enorme** para la CDSB y nos da un empuje moral gigante 🎉🥳.
+Pasaron varias semanas y el 2 de abril estuvimos **encantados** de compartir que a los tres les aprobaron pláticas 🎙de 10 minutos y becas para viajar al congreso ✈️. Esta noticia es una victoria **enorme** para la CDSB y nos da un empuje moral gigante 🎉🥳.
 
 {{< tweet 1113238312758566914 >}}
 
