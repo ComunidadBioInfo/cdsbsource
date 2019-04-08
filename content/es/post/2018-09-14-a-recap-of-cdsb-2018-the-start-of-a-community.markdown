@@ -67,7 +67,7 @@ Anecdotally, some of us felt that Latin Americans were not fully represented in 
 
 
 
-In hopes of filling this gap, we gathered a diverse team of instructors, including Martin Morgan, Benilton Carvalho and Selene Fernandez-Valverde, who taught participants how to develop R/Bioconductor packages. The main idea was to turn Bioconductor software users into Bioconductor software developers.
+In hopes of filling this gap, we gathered a diverse team of instructors, including Martin Morgan, Benilton Carvalho and Selene L. Fernandez-Valverde, who taught participants how to develop R/Bioconductor packages. The main idea was to turn Bioconductor software users into Bioconductor software developers.
 
 {{< tweet 1024705893148094464 >}}
 

@@ -133,9 +133,9 @@ This workshop is part of a long-term project to create a community of developers
 | 11:00 - 11:20 | Coffee break  |      |
 | 11:20 - 12:20 | Creating a package | [Alejandro Reyes](http://alejandroreyes.org/) |
 | 12:20 - 12:40 | Break    |      |
-| 12:40 - 14:00 | Version control with git and GitHub | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
+| 12:40 - 14:00 | Version control with git and GitHub | [Selene L. Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
 | 14:00 - 15:30 | Lunch break     |      |
-| 15:30 - 16:15 | Open source software projects and collaborative development  | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
+| 15:30 - 16:15 | Open source software projects and collaborative development  | [Selene L. Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
 | 16:45 - 17:30 | Package documentation | [Alejandro Reyes](http://alejandroreyes.org/)  |
 | 17:30 -       | Welcome cocktail |      |
 | **Day 2: July 31, 2018** |      |      |
@@ -180,7 +180,7 @@ This workshop is part of a long-term project to create a community of developers
   
 - [Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en) (University of Campinas, Campinas, Brazil)
   
-- [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) (National Laboratory of Genomics for Biodiversity, Irapuato, Mexico)
+- [Selene L. Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) (National Laboratory of Genomics for Biodiversity, Irapuato, Mexico)
 
 
 ## Organizing committee:
