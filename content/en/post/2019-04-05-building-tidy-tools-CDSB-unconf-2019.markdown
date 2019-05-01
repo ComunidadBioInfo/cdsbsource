@@ -146,6 +146,8 @@ If you are attending our workshop, we will ask you to propose at least one R pac
 
 - [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) (Lieber Institute for Brain Development, Baltimore, USA). Leonardo attended [rstudio::conf 2019](https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/) thanks to a diversity scholarship where he took the original _Building Tidy Tools_ workshop. He also attended [rOpenSci unconf 2018](http://unconf18.ropensci.org/).
 
+- [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa/) (CONABIO and ITAM, Mexico)
+
 
 ## Organizing committee:
 

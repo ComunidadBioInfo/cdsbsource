@@ -139,6 +139,8 @@ Si van a participar en nuestro taller, les vamos a pedir que propongan al menos 
 
 - [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) (Lieber Institute for Brain Development, Baltimore, USA). Leonardo tómo el taller original de _Building Tidy Tools_ en [rstudio::conf 2019](https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/) gracias a una beca de diversidad. También atendió el [rOpenSci unconf 2018](http://unconf18.ropensci.org/).
 
+- [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa/) (CONABIO e ITAM, México)
+
 
 ## Comité Organizador:
 
