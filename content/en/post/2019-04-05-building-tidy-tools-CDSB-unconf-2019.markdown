@@ -33,7 +33,7 @@ featured: true
   * GitHub: [https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019](https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019)
 
  	
-  * [Registration](http://congresos.nnb.unam.mx/TIB2019)
+  * [Registration](http://congresos.nnb.unam.mx/TIB2019/registro/)
 
 
 ## Requirements
@@ -105,9 +105,9 @@ This workshop is part of a long-term project to create a community of developers
 | | Introduction to `runconf` | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | | Community building activities | |
 | | Voting and selection of projects to work on | |
-|  | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+|  | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 | **Day 5: August 2, 2019** |      |      |
-|  | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+|  | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 |  | Presentations of collaborative projects |      |
 |  | Closing remarks and community participation opportunities |      |
 
@@ -169,9 +169,9 @@ If you are attending our workshop, we will ask you to propose at least one R pac
 
 [Become our **sponsor**](../../niveles-de-patrocinio/)
 
-| | | |
-| --- | --- | --- |
-| [![Centro de Ciencias Genómicas UNAM](/img/CCG_Logo_HR-300x114.png)](http://www.ccg.unam.mx) | [![](/img/LCG_Logo_HR-white.png)](http://www.lcg.unam.mx) | [![](/img/logo-liigh-unam.png)](http://liigh.unam.mx/) |
+| | | | |
+| --- | --- | --- | --- |
+| [![Centro de Ciencias Genómicas UNAM](/img/CCG_Logo_HR-300x114.png)](http://www.ccg.unam.mx) | [![](/img/LCG_Logo_HR-white.png)](http://www.lcg.unam.mx) | [![](/img/logo-liigh-unam.png)](http://liigh.unam.mx/) | [![](/img/RConsortium_Horizontal_Pantone-768x173.png)](https://www.r-consortium.org/) |
 
 
 

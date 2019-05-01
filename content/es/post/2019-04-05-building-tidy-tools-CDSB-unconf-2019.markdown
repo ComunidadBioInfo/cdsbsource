@@ -34,7 +34,7 @@ featured: true
   * GitHub: [https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019](https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019)
 
  	
-  * [Registro](http://congresos.nnb.unam.mx/TIB2019)  
+  * [Registro](http://congresos.nnb.unam.mx/TIB2019/registro/)
 
  	
   
@@ -99,9 +99,9 @@ Este taller es parte de un proyecto a largo plazo para crear una comunidad Latin
 | | Introducción a `runconf` | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | | Actividades para construir la comunidad | |
 | | Votación y selección de proyectos | |
-|  | Trabajar en desarrollar un paquete de R de forma colaborativa | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+|  | Trabajar en desarrollar un paquete de R de forma colaborativa | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 | **Day 5: Augusto 2, 2019** |      |      |
-|  | Trabajar en desarrollar un paquete de R de forma colaborativa | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+|  | Trabajar en desarrollar un paquete de R de forma colaborativa | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 |  | Presentación de proyectos del `runconf` |      |
 |  | Clausura y recordatorio de oportunidades para participar en la CDSB |      |
 
@@ -162,10 +162,9 @@ Si van a participar en nuestro taller, les vamos a pedir que propongan al menos 
 
 [Sé nuestro **patrocinador**](../../niveles-de-patrocinio/)
 
-| | | |
-| --- | --- | --- |
-| [![Centro de Ciencias Genómicas UNAM](/img/CCG_Logo_HR-300x114.png)](http://www.ccg.unam.mx) | [![](/img/LCG_Logo_HR-white.png)](http://www.lcg.unam.mx) | [![](/img/logo-liigh-unam.png)](http://liigh.unam.mx/) |
-
+| | | | |
+| --- | --- | --- | --- |
+| [![Centro de Ciencias Genómicas UNAM](/img/CCG_Logo_HR-300x114.png)](http://www.ccg.unam.mx) | [![](/img/LCG_Logo_HR-white.png)](http://www.lcg.unam.mx) | [![](/img/logo-liigh-unam.png)](http://liigh.unam.mx/) | [![](/img/RConsortium_Horizontal_Pantone-768x173.png)](https://www.r-consortium.org/) |
 
 
 

@@ -2,15 +2,15 @@
 authors: ["admin"]
 date: 2019-04-05 12:00:00+00:00
 slug: talleres-internacionales-de-bioinformatica-2019
-title: 2019 International Workshop on Bioinformatics
+title: Bioinformatics Mexican Meeting 2019
 categories: ["Events"]
 featured: true
 ---
 
-**The National Node of Bioinformatics (NNB-UNAM), the Mexican Bioinformatics Network (RMB) and the Community of Bioinformatics Software Developers (CDSB) invite you to**
+The National Node of Bioinformatics (NNB-UNAM), the Mexican Bioinformatics Network (RMB) and the Community of Bioinformatics Software Developers (CDSB) invite you to **Bioinformatics Mexican Meeting 2019** composed by
 
 ### International Bioinformatics Workshops (TIB2019)
-### &
+&
 ### CDSB Workshop: How To Build and Create Tidy Tools
 
 **UNAM Center for Genomic Sciences (CCG-UNAM) in Cuernavaca Morelos, Mexico.**
