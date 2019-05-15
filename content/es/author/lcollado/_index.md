@@ -19,7 +19,7 @@ organizations = [ { name = "Instituto Lieber para el Desarrollo del Cerebro", ur
 bio = "Brain genomics #rstats coder working w/ @andrewejaffe @LieberInstitute. @lcgunam @jhubiostat @jtleek alumni. @LIBDrstats @CDSBMexico co-founder."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "leo.collado@libd.org"
+email = "lcolladotor@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
@@ -53,7 +53,7 @@ user_groups = ["Fundadores", "Instructores 2019", "Instructores 2018"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:leo.collado@libd.org"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:lcolladotor@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "home"
