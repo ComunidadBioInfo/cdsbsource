@@ -15,7 +15,7 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 0
 +++
 
 Say hi! It's free. We are a Community interested in learning your opinion, so please get in touch and tell us about your project.
