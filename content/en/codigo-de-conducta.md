@@ -23,4 +23,4 @@ If any of the assistants engages in bullying behavior, the workshop organizers c
 
 We welcome your comments on this and all other aspects of CDSB events, and we thank you for working with us to make it a safe, pleasant and friendly experience for all involved.
 
-This code of conduct was adapted from [unconf rOpenSci 2018]((http://unconf18.ropensci.org/coc.html) )'s code of conduct  which is licensed under CC BY-SA 4.0. Please review the page for more information about the license and attribution.
+This code of conduct was adapted from [unconf rOpenSci 2018](http://unconf18.ropensci.org/coc.html)'s code of conduct  which is licensed under CC BY-SA 4.0. Please review the page for more information about the license and attribution.
