@@ -84,32 +84,48 @@ This workshop is part of a long-term project to create a community of developers
 
 ## Program
 
+Overall TIB2019 program (registration, sessions and breaks) is available [here](http://congresos.nnb.unam.mx/TIB2019/programa/).
 
 | **Day 1: July 29, 2019**  |      |      |
 | ------------------ | ---------------------------------- | ----------------------------- |
-| | Inauguration  |  |
-| | Welcome to CDSB: the history of our community and where we are going | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/)    |
-| | Packages | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
-| | Testing | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
-| | API Design | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| 08:00-09:00 | Registration | |
+| 09:00-09:30 | TIB2019 Inauguration  |  |
+| 09:30-10:00 | Welcome to CDSB: the history of our community and where we are going. Code of conduct review | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/)    |
+| 10:00-10:30 | Why make an R package? | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) |
+| 10:30-11:00 | Preliminaries | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| 11:00-11:30 | Coffee break | |
+| 11:30-12:30 | Packages | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/)  |
+| 12:30-14:00 | Testing | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| 14:00-15:30 | Break | |
+| 15:30-17:30 | API Design | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | **Day 2: July 30, 2019** |      |      |
-| | Functional Programing | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
-| | Errors | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
-| | Object Oriented Programming| [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
-|  | (tentative) Poster session |      |
+| 09:00-11:00 | Functional Programing | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| 11:00-11:30 | Coffee break | |
+| 11:30-14:00 | Errors | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| 14:00-15:30 | Break | |
+| 15:30-17:30 | Object Oriented Programming| [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) |
 | **Day 3: July 31, 2019** |      |      |
-| | Tidy Evaluation | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
-| | Document and Share| [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) and [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
-| | Introduction to GitHub | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/) |
+| 09:00-11:00 | Tidy Evaluation | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| 11:00-11:30 | Coffee break | |
+| 11:30-14:00 | Document and Share| [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| 14:00-15:30 | Break | |
+| 15:30-17:30 | Introduction to GitHub | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/) |
 | **Day 4: August 1, 2019** |      |      |
-| | Introduction to `runconf` | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
-| | Community building activities | |
-| | Voting and selection of projects to work on | |
-|  | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
+| 09:00-09:30 | Introduction to `runconf` | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| 09:30-11:00 | Community building activities | |
+| 11:00-11:30 | Coffee break | |
+| 11:30-12:00 | Voting and selection of projects to work on | |
+| 12:00-14:00 | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
+| 14:00-15:30 | Break | |
+| 15:30-17:30 | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 | **Day 5: August 2, 2019** |      |      |
-|  | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
-|  | Presentations of collaborative projects |      |
-|  | Closing remarks and community participation opportunities |      |
+| 09:00-09:15 | (optional) change project | |
+| 09:15-11:00 | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
+| 11:00-11:30 | Coffee break | |
+| 11:30-12:00 | Prepare presentations of the collaborative project | |
+| 12:00-13:00 | Presentations of collaborative projects |      |
+| 13:00-13:30 | Closing remarks and community participation opportunities |      |
+| 13:30-14:00 | TIB2019 Closing Ceremony | |
 
 
 ### Building Tidy Tools
