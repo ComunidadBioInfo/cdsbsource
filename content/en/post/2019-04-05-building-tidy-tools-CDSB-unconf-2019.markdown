@@ -113,8 +113,9 @@ Overall TIB2019 program (registration, sessions and breaks) is available [here](
 | **Day 4: August 1, 2019** |      |      |
 | 09:00-09:30 | Introduction to `runconf` | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | 09:30-11:00 | Community building activities | |
-| 11:00-11:30 | Coffee break | |
-| 11:30-12:00 | Voting and selection of projects to work on | |
+| 11:00-11:30 | Group picture | |
+| 11:30-12:00 | Coffee break | |
+| 12:00-12:15 | Voting and selection of projects to work on | |
 | 12:00-14:00 | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 | 14:00-15:30 | Break | |
 | 15:30-17:30 | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
@@ -122,8 +123,9 @@ Overall TIB2019 program (registration, sessions and breaks) is available [here](
 | 09:00-09:15 | (optional) change project | |
 | 09:15-11:00 | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 | 11:00-11:30 | Coffee break | |
-| 11:30-12:00 | Prepare presentations of the collaborative project | |
-| 12:00-13:00 | Presentations of collaborative projects |      |
+| 11:30-12:00 | Workshop evaluation | |
+| 12:00-12:30 | Prepare presentations of the collaborative project | |
+| 12:30-13:00 | Presentations of collaborative projects |      |
 | 13:00-13:30 | Closing remarks and community participation opportunities |      |
 | 13:30-14:00 | TIB2019 Closing Ceremony | |
 

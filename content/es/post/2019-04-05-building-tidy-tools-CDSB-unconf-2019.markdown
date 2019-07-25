@@ -107,17 +107,19 @@ El programa general de los TIB2019 (registro, sesiones y descansos) está dispon
 | **Day 4: Augusto 1, 2019** |      |      |
 | 09:00-09:30 | Introducción a `runconf` | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | 09:30-11:00 | Actividades para construir la comunidad | |
-| 11:00-11:30 | Descanso y café | |
-| 11:30-12:00 | Votación y selección de proyectos | |
-| 12:00-14:00 | Trabajar en desarrollar un paquete de R de forma colaborativa | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) y [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
+| 11:00-11:30 | Foto grupal | |
+| 11:30-12:00 | Descanso y café | |
+| 12:00-12:15 | Votación y selección de proyectos | |
+| 12:15-14:00 | Trabajar en desarrollar un paquete de R de forma colaborativa | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) y [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 | 14:00-15:30 | Descanso | |
 | 15:30-17:30 | Trabajar en desarrollar un paquete de R de forma colaborativa | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) y [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 | **Day 5: Augusto 2, 2019** |      |      |
 | 09:00-09:15 | (opcional) cambiar de proyecto | |
 | 09:15-11:00 | Trabajar en desarrollar un paquete de R de forma colaborativa | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) y [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 | 11:00-11:30 | Descanso y café | |
-| 11:30-12:00 | Preparar presentaciones de los proyectos | |
-| 12:00-13:00 | Presentaciones de los proyectos del `runconf` |      |
+| 11:30-12:00 | Evaluación de los talleres | |
+| 12:00-12:30 | Preparar presentaciones de los proyectos | |
+| 12:30-13:00 | Presentaciones de los proyectos del `runconf` |      |
 | 13:00-13:30 | Clausura y recordatorio de oportunidades para participar en la CDSB |      |
 | 13:30-14:00 | Ceremonia de clausura de los TIB2019 | |
 
