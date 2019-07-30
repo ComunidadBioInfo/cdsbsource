@@ -98,6 +98,7 @@ Overall TIB2019 program (registration, sessions and breaks) is available [here](
 | 12:30-14:00 | Testing | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | 14:00-15:30 | Break | |
 | 15:30-17:30 | API Design | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| 17:30-18:30 | Welcome cocktail | |
 | **Day 2: July 30, 2019** |      |      |
 | 09:00-11:00 | Functional Programing | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | 11:00-11:30 | Coffee break | |
@@ -106,16 +107,16 @@ Overall TIB2019 program (registration, sessions and breaks) is available [here](
 | 15:30-17:30 | Object Oriented Programming| [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) |
 | **Day 3: July 31, 2019** |      |      |
 | 09:00-11:00 | Tidy Evaluation | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
-| 11:00-11:30 | Coffee break | |
-| 11:30-14:00 | Document and Share| [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| 11:00-11:30 | Group picture | |
+| 11:30-12:00 | Coffee break | |
+| 12:00-14:00 | Document and Share| [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | 14:00-15:30 | Break | |
 | 15:30-17:30 | Introduction to GitHub | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/) |
 | **Day 4: August 1, 2019** |      |      |
 | 09:00-09:30 | Introduction to `runconf` | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | 09:30-11:00 | Community building activities | |
-| 11:00-11:30 | Group picture | |
-| 11:30-12:00 | Coffee break | |
-| 12:00-12:15 | Voting and selection of projects to work on | |
+| 11:00-11:30 | Coffee break | |
+| 11:30-12:00 | Voting and selection of projects to work on | |
 | 12:00-14:00 | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 | 14:00-15:30 | Break | |
 | 15:30-17:30 | Working on a Collaborative Project | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) and [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |

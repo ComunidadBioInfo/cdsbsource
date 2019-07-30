@@ -92,6 +92,7 @@ El programa general de los TIB2019 (registro, sesiones y descansos) está dispon
 | 12:30-14:00 | Pruebas | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | 14:00-15:30 | Descanso | |
 | 15:30-17:30 | Diseño de API | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| 17:30-18:30 | Coctel de bienvenida | |
 | **Day 2: Julio 30, 2019** |      |      |
 | 09:00-11:00 | Programación Funcional | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | 11:00-11:30 | Descanso y café | |
@@ -100,17 +101,17 @@ El programa general de los TIB2019 (registro, sesiones y descansos) está dispon
 | 15:30-17:30 | Programación Orientada a Objetos | [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) |
 | **Day 3: Julio 31, 2019** |      |      |
 | 09:00-11:00 | Evaluación "Tidy" | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
-| 11:00-11:30 | Descanso y café | |
-| 11:30-14:00 | Documentar y Compartir | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
+| 11:00-11:30 | Foto grupal | |
+| 11:30-12:00 | Descanso y café | |
+| 12:000-14:00 | Documentar y Compartir | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | 14:00-15:30 | Descanso | |
 | 15:30-17:30 | Introducción a GitHub | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/) |
 | **Day 4: Augusto 1, 2019** |      |      |
 | 09:00-09:30 | Introducción a `runconf` | [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) |
 | 09:30-11:00 | Actividades para construir la comunidad | |
-| 11:00-11:30 | Foto grupal | |
-| 11:30-12:00 | Descanso y café | |
-| 12:00-12:15 | Votación y selección de proyectos | |
-| 12:15-14:00 | Trabajar en desarrollar un paquete de R de forma colaborativa | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) y [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
+| 11:00-11:30 | Descanso y café | |
+| 11:30-12:00 | Votación y selección de proyectos | |
+| 12:00-14:00 | Trabajar en desarrollar un paquete de R de forma colaborativa | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) y [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 | 14:00-15:30 | Descanso | |
 | 15:30-17:30 | Trabajar en desarrollar un paquete de R de forma colaborativa | [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/), [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/), [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) y [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa) |
 | **Day 5: Augusto 2, 2019** |      |      |
