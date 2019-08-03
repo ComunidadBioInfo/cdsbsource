@@ -11,6 +11,7 @@ subtitle = "de trabajo"
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Comunidad",
+               "Junta Directiva",
                "Fundadores",
                "Instructores 2019",
                "Instructores 2018"

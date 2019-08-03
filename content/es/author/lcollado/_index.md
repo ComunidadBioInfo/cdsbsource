@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Leonardo Collado-Torres"
+name = "Leonardo Collado-Torres, PhD"
 
 # Username (this should match the folder name)
 authors = ["lcollado"]
@@ -32,7 +32,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Fundadores", "Instructores 2019", "Instructores 2018"]
+user_groups = ["Junta Directiva", "Fundadores", "Instructores 2019", "Instructores 2018"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
