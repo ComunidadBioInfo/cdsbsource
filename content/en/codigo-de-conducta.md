@@ -14,6 +14,7 @@ CDSB participants accept:
 * Be considered in speech and actions, actively seek to recognize and respect the boundaries of others in attendance.
 * Refrain from behaviors and degrading expressions, discriminatory or harassing. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photo or recording; sustained or deliberate interruption of the talks and other events; inappropriate physical contact; use of sexual imagery or discriminatory comments or jokes; and unwanted sexual attention. If you feel someone has harassed or treated him inappropriately, please report in person to any member of the organizing committee of the workshop.
 * Take care of each other. Contact a member of the organizing committee of the workshop if you notice a dangerous situation, someone in distress or violations of this code of conduct, even if they seem inconsequential.
+* Use your full name and not an alias in Slack and other internal communication channels such that we can create a secure environment and enforce the code of conduct.
 
 **Need help?**
 

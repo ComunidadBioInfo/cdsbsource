@@ -21,6 +21,8 @@ Los participantes de CDSB aceptan:
 
  	
   * Cuidar el uno del otro. Avise a un miembro del comité organizador del taller si nota una situación peligrosa, alguien en apuros o violaciones de este código de conducta, incluso si parecen intrascendentes.
+  
+  * Usar su nombre completo y no alias en Slack y demás canales de comunicación interna con el fin de crear un ambiente seguro y poder exigir el cumplimiento del código de conducta.
 
 
 **¿Necesitas ayuda?**
