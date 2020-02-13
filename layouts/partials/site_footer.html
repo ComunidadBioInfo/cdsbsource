@@ -1,0 +1,71 @@
+<footer class="site-footer">
+  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+  <p class="powered-by">
+    {{ with site.GetPage "privacy.md" }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+    {{ with site.GetPage "terms.md" }}
+      {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+  </p>
+  {{ end }}
+  
+  {{ with .Site.GetPage "niveles-de-patrocinio.md" }}
+  <p class="powered-by">
+    {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+  </p>
+  {{ end }}
+  
+  {{ with .Site.GetPage "aviso-de-privacidad.md" }}
+  <p class="powered-by">
+    {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+  </p>
+  {{ end }}
+  
+  <p class="powered-by">
+  <center><a href='https://clustrmaps.com/site/1ao9l'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=m&d=_tlwMU2mhhJz4JuukyvCCo8NZJHVlAWIBpVqg2s8NMw'/></a></center>
+  
+   <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ef23e545d41b87c"></script>
+   
+   <script type="text/javascript">
+   var addthis_config = {
+   	data_ga_property: 'UA-137796972-1',
+   	data_ga_social : true,
+   	data_track_addressbar: true,
+    data_track_addressbar_paths: ['/201*/*/*/*/*', '/post/*', '/es/post/*']
+   };
+   var addthis_share = {
+   	// ... other options
+   	url_transforms : {
+   		shorten: {
+   			twitter: 'bitly'
+   		}
+   	}, 
+   	shorteners : {
+   		bitly : {}
+   	}
+   }
+   </script>
+   
+  </p>
+  
+
+  <p class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    {{ if not (in (slice "docs" "updates") .Type) }}
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    {{ end }}
+  </p>
+</footer>

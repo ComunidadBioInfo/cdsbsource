@@ -32,7 +32,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Board", "Founders", "2019 Instructors", "2018 Instructors"]
+user_groups = ["Board", "Founders", "2018 Instructors", "2019 Instructors", "2020 Instructors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]

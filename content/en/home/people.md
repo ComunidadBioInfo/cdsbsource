@@ -16,6 +16,7 @@ subtitle = ""
   user_groups = ["Community",
                  "Board",
                  "Founders",
+                 "2020 Instructors",
                  "2019 Instructors",
                  "2018 Instructors"
                  ]
