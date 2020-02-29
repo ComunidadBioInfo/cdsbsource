@@ -16,6 +16,7 @@ subtitle = "de trabajo"
   user_groups = ["Comunidad",
                  "Junta Directiva",
                  "Fundadores",
+                 "Exalumnos Desarrolladores de Bioconductor",
                  "Instructores 2020",
                  "Instructores 2019",
                  "Instructores 2018"

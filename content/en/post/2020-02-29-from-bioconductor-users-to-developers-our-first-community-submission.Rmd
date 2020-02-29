@@ -1,0 +1,125 @@
+---
+authors: ["lcollado"]
+date: 2020-02-29 17:00:00+00:00
+title: 'From Bioconductor users to developers: our first community submission'
+slug: from-bioconductor-users-to-developers-our-first-community-submission
+categories: ["rstats"]
+tags: ["Bioconductor", "Developer Alumni"]
+---
+
+<script async class="speakerdeck-embed" data-slide="14" data-id="b9dd0405a013420682e7d850ab439326" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+A couple years ago we started the Community of Bioinformatics Software Developers (CDSB in Spanish) as because we were concerned with the very low representation of Latin Americans in the Bioconductor community, and the R community in general. For the full story check this [this blog post](https://comunidadbioinfo.github.io/post/a-recap-of-cdsb-2018-the-start-of-a-community/).
+
+<script async class="speakerdeck-embed" data-slide="16" data-id="b9dd0405a013420682e7d850ab439326" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+Since we started CDSB, part of our goal been to help Bioconductor users transition into developers. To achieve this, we organized one week long courses in Mexico at low cost during the summers of [2018](https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/) and [2019](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) in partnership with the [TIBs leadership (NNB-UNAM)](http://congresos.nnb.unam.mx/) and [RMB](https://redmexicanadebioinformatica.org/). We plan to continue organizing these courses: except a 2020 announcement next week!
+
+While these workshops allow us to reach up to 40 students in person for a week, we have been borrowing methods from others to try to interact more frequently and help throughout this process ^[As always, thank you [rOpenSci unconf 2018](https://unconf18.ropensci.org/)!]. But we now went a bit further.
+
+In 2018, CDSB students worked on R/Bioconductor packages for two days during our workshop. One of them, [Joselyn Chávez](https://josschavezf.github.io/), picked up the [regutools](https://github.com/ComunidadBioInfo/regutools) project and continued working on it with advice from [Heladia Salgado](/authors/hsalgado). We eventually set up meetings where [Alejandro Reyes](http://alejandroreyes.org/) and [myself](http://lcolladotor.github.io/) would advice Joselyn, [Carmina Barberena-Jonas](/authors/carbarjon) and [Jesus Emiliano Sotelo-Fonseca](/authors/jemilianosf/) on how to best proceed. 
+
+`r blogdown::shortcode('tweet', '1230694883750445056')`
+
+We've known for months that the deadline for [BioC2020](https://bioc2020.bioconductor.org) talk/poster proposals was March 3rd. So we designed a plan that would allow them to submit [regutools](https://github.com/ComunidadBioInfo/regutools) prior to that deadline, then submit a proposal to present it (as well as submit proposals to present their own research projects) in order to increase their likelihood of getting a [BioC2020 travel scholarship](https://bioc2020.bioconductor.org/scholarships.html).
+
+And we were able to accomplish this plan! Well, at least the part under their and our control. That is, check out the [regutools Bioconductor submission](https://github.com/Bioconductor/Contributions/issues/1393). Thus we are incredibly excited to announce that the CDSB website now has a "Bioconductor Developers Alumni" section!
+
+
+![Bioconductor Developers Alumni](/img/regutools/alumni.png)
+We are also thrilled to announce that the [RegulonDB](http://regulondb.ccg.unam.mx/) team has given us the go ahead signal to write a manuscript about [regutools](https://github.com/ComunidadBioInfo/regutools). So you'll soon see a pre-print about it.
+
+<iframe src="https://giphy.com/embed/WsKVAem02Efuw" width="480" height="455" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dancing-happy-excited-WsKVAem02Efuw">via GIPHY</a></p>
+
+Though I personally really hope that Joselyn, Carmina, Emiliano and many other CDSB alumni will be able to go to BioC2020 and other R conferences.
+
+We couldn't have gotten this far without all the support we've received over the years. So I would like to thank all our previous sponsors ^[Sponsors are listed on each year's workshop announcement. If you would like to sponsor our 2020 workshop, please get in touch with us. Thanks!!], colleagues who've encouraged us to keep going, and CDSB alumni like Joselyn, Carmina, and Emiliano who believed in our ideas and spent their own time making them a reality.
+
+<iframe src="https://giphy.com/embed/yoJC2El7xJkYCadlWE" width="480" height="294" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kiss-brad-pitt-thank-you-yoJC2El7xJkYCadlWE">via GIPHY</a></p>
+
+I leave you here with a short introduction to [regutools](https://github.com/ComunidadBioInfo/regutools).
+
+
+
+
+
+### regutools <img src="https://comunidadbioinfo.github.io/regutools/reference/figures/logo.png" align="right" width="250px"/> 
+
+
+The goal of `regutools` is to provide an R interface for extracting and processing data from [RegulonDB](http://regulondb.ccg.unam.mx/). This package was created as a collaboration by members of the [Community of Bioinformatics Software Developers](https://comunidadbioinfo.github.io/) (CDSB in Spanish).
+
+For more details, please check the [documentation website](http://comunidadbioinfo.github.io/regutools) or the Bioconductor package landing page [here](https://bioconductor.org/packages/regutools).
+
+#### Installation
+
+You can install the released version of `regutools` from [Bioconductor](http://bioconductor.org/) with:
+
+```{r 'install release', eval = FALSE}
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("regutools")
+
+## Check that you have a valid Bioconductor installation
+BiocManager::valid()
+```
+
+And the development version from [GitHub](https://github.com/) with:
+
+```{r 'install devel', eval = FALSE}
+## Since the package is currently going through the Bioconductor
+## revision process, you need to use this code instead:
+BiocManager::install("ComunidadBioinfo/regutools")
+```
+
+#### Example
+
+This is a basic example which shows you how to use `regutools`. For more details, please check the vignette.
+
+```{r example}
+library('regutools')
+## basic example code
+
+## Connect to the RegulonDB database if necessary
+if(!exists('regulondb_conn')) regulondb_conn <- connect_database()
+
+## Build a regulondb object
+e_coli_regulondb <-
+    regulondb(
+        database_conn = regulondb_conn,
+        organism = "E.coli",
+        database_version = "1",
+        genome_version = "1"
+    )
+
+## Get the araC regulators
+araC_regulation <-
+    get_gene_regulators(
+        e_coli_regulondb,
+        genes = c("araC"),
+        format = "multirow",
+        output.type = "TF"
+    )
+
+## Summarize the araC regulation
+get_regulatory_summary(e_coli_regulondb, araC_regulation)
+```
+
+#### Citation
+
+Below is the citation output from using `citation('regutools')` in R. Please 
+run this yourself to check for any updates on how to cite __regutools__.
+
+```{r 'citation'}
+citation('regutools')
+```
+
+
+### Reproducibility information
+
+```{r 'session_info'}
+options(width = 120)
+sessioninfo::session_info()
+```
+
+
