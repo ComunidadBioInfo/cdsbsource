@@ -53,6 +53,11 @@ user_groups = ["Bioconductor Developer Alumni"]
   link = "http://www.morenolab.org/people/"
 
 [[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/BarjonCar"
+
+[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/CarBarJon"
