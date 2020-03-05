@@ -9,7 +9,7 @@ featured: true
 
 #### Community of Bioinformatics Software Developers
  	
-  * Workshop webpage: [https://comunidadbioinfo.github.io/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/](https://comunidadbioinfo.github.io/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/)
+  *  [Workshop webpage](https://comunidadbioinfo.github.io/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/)
 
  	
   * Level: **intermediate - advanced**
@@ -93,10 +93,10 @@ This workshop is part of a long-term project to create a community of developers
 Day 1
 
 * Workflow around RStudio projects:
-- Working with projects against scripts.
-- Creating a project.
-- Using safe paths.
-- How should I name my file?
+  - Working with projects against scripts.
+  - Creating a project.
+  - Using safe paths.
+  - How should I name my file?
 
 Day 2
 

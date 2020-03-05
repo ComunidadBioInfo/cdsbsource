@@ -10,7 +10,7 @@ featured: true
 #### Comunidad de Desarrolladores de Software en Bioinformática
 
  	
-  * Página del taller: [https://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor](https://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/)
+  * [Página del taller](https://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/)
 
  	
   * Nivel: **intermedio - avanzado**
@@ -102,10 +102,10 @@ Este taller es parte de un proyecto a largo plazo para crear una comunidad Latin
 Día 1
 
 * Flujo de trabajo orientado a proyectos:
-- Trabajando con proyectos versus scripts.
-- Generación de un proyecto.
-- Paths seguros.
-- ¿Qué nombre le doy a mi archivo?
+  - Trabajando con proyectos versus scripts.
+  - Generación de un proyecto.
+  - Paths seguros.
+  - ¿Qué nombre le doy a mi archivo?
 
 Día 2
 
