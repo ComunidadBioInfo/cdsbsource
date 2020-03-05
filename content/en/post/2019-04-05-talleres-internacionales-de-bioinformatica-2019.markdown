@@ -4,7 +4,7 @@ date: 2019-04-05 12:00:00+00:00
 slug: talleres-internacionales-de-bioinformatica-2019
 title: Bioinformatics Mexican Meeting 2019
 categories: ["Events"]
-featured: true
+featured: false
 ---
 
 The National Node of Bioinformatics (NNB-UNAM), the Mexican Bioinformatics Network (RMB) and the Community of Bioinformatics Software Developers (CDSB) invite you to **Bioinformatics Mexican Meeting 2019** composed by

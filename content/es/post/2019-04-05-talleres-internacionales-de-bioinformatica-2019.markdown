@@ -4,7 +4,7 @@ date: 2019-04-05 12:00:00+00:00
 slug: talleres-internacionales-de-bioinformatica-2019
 title: Encuentro de Bioinformática en México 2019
 categories: ["Events"]
-featured: true
+featured: false
 ---
 
 El Nodo Nacional de Bioinformática (NNB-UNAM), la Red Mexicana de Bioinformática (RMB) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan al **Encuentro de Bioinformática en México 2019** compuesto por

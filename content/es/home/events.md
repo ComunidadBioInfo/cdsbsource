@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Eventos"
-subtitle = "Talleres organizados por la CDSB"
+subtitle = "Talleres a futuro organizados por la CDSB"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

@@ -4,7 +4,7 @@ date: 2019-04-05 13:30:00+00:00
 slug: building-tidy-tools-CDSB-runconf-2019
 title: "CDSB Workshop 2019: How to Build and Create Tidy Tools"
 categories: ["Events", "rstats"]
-featured: true
+featured: false
 ---
 
 #### Community of Bioinformatics Software Developers
