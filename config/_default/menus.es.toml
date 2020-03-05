@@ -32,6 +32,12 @@
   name = "Código de conducta"
   url = "/codigo-de-conducta"
   weight = 55
+  
+[[main]]
+  name = "Patrocínanos"
+  url = "/niveles-de-patrocinio"
+  weight = 56
+
 
 [[main]]
   name = "Contacto"

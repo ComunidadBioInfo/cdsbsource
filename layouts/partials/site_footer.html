@@ -11,12 +11,6 @@
   </p>
   {{ end }}
   
-  {{ with .Site.GetPage "niveles-de-patrocinio.md" }}
-  <p class="powered-by">
-    {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-  </p>
-  {{ end }}
-  
   {{ with .Site.GetPage "aviso-de-privacidad.md" }}
   <p class="powered-by">
     {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}

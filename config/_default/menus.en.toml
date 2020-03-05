@@ -34,6 +34,11 @@
   weight = 55
 
 [[main]]
+  name = "Sponsor us"
+  url = "/niveles-de-patrocinio"
+  weight = 56
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60

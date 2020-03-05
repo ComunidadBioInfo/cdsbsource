@@ -2,115 +2,55 @@
 author: ["admin"]
 date: 2018-05-09 16:06:58+00:00
 slug: niveles-de-patrocinio
-title: Sponsorship levels
+title: Become our sponsor
 ---
 
-If you want to sponsor us please get in touch via [**cdsbmexico@gmail.com**](mailto:cdsbmexico@gmail.com)
+If you want to sponsor us please get in touch: [**cdsbmexico@gmail.com**](mailto:cdsbmexico@gmail.com). Thank you!
+
+### Why you should support us?
+
+[CDSB](https://comunidadbioinfo.github.io/) and [TIBs](http://congresos.nnb.unam.mx/) are workshops held yearly in Cuernavaca, Morelos, Mexico in a week chosen such that students, faculty, and industry employees across the country are more likely to be able to travel and attend the workshops. Workshop participants come from all over the country (and abroad) representing a unique opportunity to reach budding bioinformatics talent from many states without having to travel to them. From 2010 to 2019, participants came from an average of 18/32 (56%) different Mexican states and 4 countries, with a mean of 80 students and 49 academia or industry employees per event. The workshop organizers and core instructors are seasoned veterans that have received positive reviews from participants across the years. By sponsoring these workshops you will have the opportunity to __help train and recruit talent for your institution__. The workshops are jointly organized by the [National Bioinformatics Node (NNB in Spanish)](http://www.nnb.unam.mx/) and the [Community of Bioinformatics Software Developers (CDSB in Spanish)](https://comunidadbioinfo.github.io/) with the logistical support by the [Mexican Bioinformatics Network (RMB in Spanish)](https://www.redmexicanadebioinformatica.org/). All events follow a [code of conduct](https://comunidadbioinfo.github.io/codigo-de-conducta/) designed to foster a welcoming environment for everyone involved.
 
 
-#### **DIAMOND LEVEL** (*****)
+### Sponsor levels
 
+#### **PLATINUM LEVEL**
 
-**$100,000 pesos or more**
+**$5,000 USD or more**
 
-
-
-* Recognition as the sole sponsor of one of the workshops from the program, including the opportunity to talk to the participants at the opening and closing ceremonies of the event.
-
-* You will be able to display your logo as a sponsor in a workshop of your choice.
-
-* Recognition as a sponsor in two of the promotional items.
-
-* Recognition as a sponsor in our event website.
+* The option to present directly or show a promotional video for 5 minutes in all of the workshops: [TIB workshops](http://congresos.nnb.unam.mx/) and [CDSB](https://comunidadbioinfo.github.io/).
 
 * Recognition as a sponsor in the videos made prior to and during the event.
 
-* Recognition as a sponsor on our social media.
+* A total of two full registrations as a courtesy for any of the workshops of the event.
 
-* You will allowed to display two exhibition modules during the event.
+* Opportunity to request a blog post written by the event organizers on your website.
 
-* Five full registrations as a courtesy for any of the workshops of the event.
-
-* A reserved table for two people during the main social activities of the event.
+* Includes all items offered to gold level sponsors.
 
 
+#### **GOLD LEVEL**
+
+**$2,500 USD or more**
+
+* Recognition as a sponsor in a promotional item that will be given to participants.
+
+* You will be allowed a display exhibition module during the event where you will be able to interact directly with participants during breaks.
+
+* A full registration as a courtesy for any of the workshops of the event.
+
+* Includes all items offered to silver level sponsors.
 
 
-#### **PLATINUM LEVEL** (****)
+#### **SILVER LEVEL** 
 
-
-**$50,000 - $70,000 pesos**
-
-
-* You will be able to display your logo as a sponsor in a workshop of your choice.
-
-* Recognition as a sponsor in two of the promotional items.
-
-* Recognition as a sponsor in our event website.
-
-* Recognition as a sponsor in the videos made prior to and during the event.
-
-* Recognition as a sponsor on our social media.
-
-* You will allowed to display two exhibition modules during the event.
-
-* Three full registrations as a courtesy for any of the workshops of the event.
-
-* A reserved table for two people during the main social activities of the event.
-
-
-
-#### **GOLD LEVEL** (***)
-
-
-**$20,000 - $30,000 pesos**
-
+**$1,000 USD or more**
 
 * Recognition as a sponsor in our event website.
 
-* Recognition as a sponsor in the videos made prior to and during the event.
+* Recognition as a sponsor in all social media posts.
 
-* Recognition as a sponsor on our social media.
-
-* You will allowed to display one exhibition module during the event.
-
-* One full registration as a courtesy for any of the workshops of the event.
-
-* A reserved table for two people during the main social activities of the event.
-
-
-
-#### **SILVER LEVEL** (**)
-
-
-**$10,000 - $15,000 pesos**
-
-
-* Recognition as a sponsor in our event website.
-
-* Recognition as a sponsor in the videos made prior to and during the event.
-
-* Recognition as a sponsor on our social media.
-
-* You will allowed to display one exhibition module during the event.
-
-* A reserved table for one person during the main social activities of the event.
-
-
-
-
-#### **BRONCE LEVEL** (*)
-
-
-**$3,000 - $5,000 pesos**
-
-
-* Recognition as a sponsor in our event website.
-
-* Recognition as a sponsor in the videos made prior to and during the event.
-
-* A reserved table for one person during the main social activities of the event.
-
+* Opportunity to distribute a promotional flyer that you provide us in the welcome package of each participant.
 
 
 #### **DONATIONS IN KIND**

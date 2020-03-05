@@ -2,153 +2,57 @@
 author: ["admin"]
 date: 2018-05-09 16:06:58+00:00
 slug: niveles-de-patrocinio
-title: Niveles de patrocinio
+title: Conviértete en nuestro patrocinador
 ---
 
-Si deseas participar con nosotros contáctanos a [**cdsbmexico@gmail.com**](mailto:cdsbmexico@gmail.com)
+Si deseas participar con nosotros contáctanos a [**cdsbmexico@gmail.com**](mailto:cdsbmexico@gmail.com). ¡Muchas gracias!
 
+### ¿Por qué deberías ser nuestro patrocinador?
 
-#### **NIVEL DIAMANTE** (*****)
+Los talleres de la [CDSB](https://comunidadbioinfo.github.io/) y los [TIBs](http://congresos.nnb.unam.mx/) son eventos anuales que se llevan a cabo en Cuernavaca, Morelos, México durante una semana donde estudiantes, investigadores, y trabajadores en la industria tienen mayor posibilidades de viajar y atender los talleres. Los participantes de los talleres vienen de todas partes del país y del extranjero, lo cual representa una oportunidad única de comunicarse con el talento bioinformático de muchos estados sin tener que viajar hacia ellos. Por evento desde 2010 al 2019, participantes de 18/32 (56%) diferentes estados y 4 países en promedio fueron a cada evento, con una media de 80 estudiantes y 49 miembros de la academia o empleados de la industria. Los organizadores de los talleres y los instructores son veteranos que han sido altamente calificados por los participantes a través de los años. Al patrocinar estos talleres tendrás la oportunidad de __ayudar a entrenar y a reclutar talento para tu institución__. Los talleres son organizados de forma conjunta entre el [Nodo Nacional de Bioinformática (NNB)](http://www.nnb.unam.mx/) y la [Comunidad de Desarrolladores de Software en Bioinformática (CDSB)](https://comunidadbioinfo.github.io/) con el apoyo logístico de la [Red Mexicana en Bioinformática (RMB)](https://www.redmexicanadebioinformatica.org/). Todos los talleres siguen un [código de conducta](https://comunidadbioinfo.github.io/es/codigo-de-conducta/) que está diseñado para fomentar un ambiente positivo para todos los participantes.
 
 
-**$100,000 pesos o más**
+### Niveles de patrocinio
 
 
+#### **NIVEL PLATINO** 
 
- 	
-  * Reconocimiento como patrocinador único de uno de los talleres del programa, incluyendo la oportunidad de dirigir la palabra a los participantes al inicio y cierre del evento.
+**$5,000 USD o más**
 
- 	
-  * Podrá colocar su logotipo como patrocinador en un taller seleccionado.
+* La opción de presentar directamente o mostrar un video promocional de 5 minutos en todos los talleres: [TIBs](http://congresos.nnb.unam.mx/) y [CDSB](https://comunidadbioinfo.github.io/).
 
- 	
-  * Reconocimiento de patrocinio en dos de los artículos promocionales.
+* Reconocimiento de patrocinio en los videos realizados previos y durante el evento.
 
- 	
-  * Reconocimiento de patrocinio en nuestra página web del evento.
+* Dos inscripciones completas de cortesía en cualquier taller del evento.
 
- 	
-  * Reconocimiento de patrocinio en los videos realizados previos y durante el evento.
+* Oportunidad de pedirle a los organizadores del evento que escriban un _blog post_ para el sitio web de ustedes.
 
- 	
-  * Reconocimiento de patrocinio en nuestras redes sociales.
+* Incluye todo lo que le ofrecemos a los patrocinadores nivel oro.
 
- 	
-  * Podrá colocar dos módulos de exhibición durante el evento.
 
- 	
-  * 5 inscripciones completas de cortesía en cualquier taller del evento.
+#### **NIVEL ORO**
 
- 	
-  * Una mesa reservada en las principales actividades sociales del evento para 2 personas.
+**$2,500 USD o más**
 
+* Reconocimiento de patrocinio en un artículo promocional que será repartido a cada participante de los talleres.
 
+* Podrá colocar un módulo de exhibición durante el evento donde podrá interactuar directamente con los participantes de los talleres durante sus descansos.
 
+* Una inscripción completas de cortesía en cualquier taller del evento.
 
-#### **NIVEL PLATINO** (****)
+* Incluye todo lo que le ofrecemos a los patrocinadores nivel plata.
 
 
-**$50,000 - $70,000 pesos**
 
+#### **NIVEL PLATA**
 
+**$1,000 USD o más**
 
- 	
-  * Podrá colocar su logotipo como patrocinador en un taller seleccionado.
+* Reconocimiento de patrocinio en nuestra página web del evento.
 
- 	
-  * Reconocimiento de patrocinio en dos de los artículos promocionales.
+* Reconocimiento de patrocinio en nuestras redes sociales.
 
- 	
-  * Reconocimiento de patrocinio en nuestra página web del evento.
-
- 	
-  * Reconocimiento de patrocinio en los videos realizados previos y durante el evento.
-
- 	
-  * Reconocimiento de patrocinio en nuestras redes sociales.
-
- 	
-  * Podrá colocar dos módulos de exhibición durante el evento.
-
- 	
-  * 3 inscripciones completas de cortesía en cualquier taller del evento.
-
- 	
-  * Una mesa reservada en las principales actividades sociales del evento para 2 personas.
-
-
-
-
-#### **NIVEL ORO** (***)
-
-
-**$20,000 - $30,000 pesos**
-
-
-
- 	
-  * Reconocimiento de patrocinio en nuestra página web del evento.
-
- 	
-  * Reconocimiento de patrocinio en los videos realizados previos y durante el evento.
-
- 	
-  * Reconocimiento de patrocinio en nuestras redes sociales.
-
- 	
-  * Podrá colocar un módulo de exhibición durante el evento.
-
- 	
-  * 1 inscripciones completas de cortesía en cualquier taller del evento.
-
- 	
-  * Una mesa reservada en las principales actividades sociales del evento para 2 personas.
-
-
-
-
-#### **NIVEL PLATA** (**)
-
-
-**$10,000 - $15,000 pesos**
-
-
-
- 	
-  * Reconocimiento de patrocinio en nuestra página web del evento.
-
- 	
-  * Reconocimiento de patrocinio en los videos realizados previos y durante el evento.
-
- 	
-  * Reconocimiento de patrocinio en nuestras redes sociales.
-
- 	
-  * Podrá colocar un módulo de exhibición durante el evento.
-
- 	
-  * Una mesa reservada en las principales actividades sociales del evento para una persona.
-
-
-
-
-#### **NIVEL BRONCE** (*)
-
-
-**$3,000 - $5,000 pesos**
-
-
-
- 	
-  * Reconocimiento de patrocinio en nuestra página web del evento.
-
- 	
-  * Reconocimiento de patrocinio en los videos realizados previos y durante el evento.
-
- 	
-  * Una mesa reservada en las principales actividades sociales del evento para una persona.
-
-
+* Oportunidad de distribuir un artículo promocional que usted nos provea para los paquetes de bienvenida de cada participante.
 
 
 #### **DONATIVOS EN ESPECIE**
