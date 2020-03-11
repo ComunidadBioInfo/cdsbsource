@@ -7,7 +7,7 @@ categories: ["Bioconductor", "Conduct"]
 featured: false
 ---
 
-Este pronunciamiento es en respuesta al reporte de acoso sexual que recibió el comité de [Código de Conducta de BioC2019](https://bioc2019.bioconductor.org/code_of_conduct) después de dicho congreso. Una persona que asistió al congreso BioC2019 reportó haber sido víctima de atención sexual y contacto físico no deseados por parte de un participante más del congreso que estaba en un estado de intoxicación, durante una reunión social por parte de participantes del congreso. 
+Este pronunciamiento es en respuesta al reporte de acoso sexual que recibió el comité de [Código de Conducta de BioC2019](https://bioc2019.bioconductor.org/code_of_conduct) después de dicho congreso. Una persona que asistió al congreso BioC2019 reportó haber sido víctima de atención sexual y contacto físico no deseados por parte de un participante más del congreso que estaba en un estado de intoxicación, durante una reunión social organizada por participantes del congreso. 
 
 Desde que el Comité recibió el reporte, dicho organismo tuvo conversaciones con la persona que hizo el reporte, la persona acusada y personas que atestiguaron el incidente. Además, el Comité pidió asesorías de personas externas a la organización y definió procedimientos para tomar las decisiones apropiadas para lidiar con futuros reportes de violación del código de conducta. El Comité decidió tomar las siguientes acciones:
 
