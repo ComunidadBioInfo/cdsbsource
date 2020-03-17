@@ -9,7 +9,7 @@ authors = ["lcollado"]
 superuser = false
 
 # Role/position
-role = "Staff Scientist II"
+role = "Research Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -84,4 +84,4 @@ user_groups = ["Board", "Founders", "2018 Instructors", "2019 Instructors", "202
 
 +++
 
-[Leonardo](http://lcolladotor.github.io/) uses `R` daily and contributes packages to the Bioconductor project as part of his work with [Andrew Jaffe](http://aejaffe.com/) at [LIBD](https://www.libd.org/). He is interested in high-throughput genomics assays such as RNA-seq, developments in R and helping others get started in their R journey. Leonardo has been learning and teaching R since 2008 and is a co-founder of the [LIBD rstats club](http://research.libd.org/rstatsclub/#.XKVLJetKi50). 
+[Leonardo](http://lcolladotor.github.io/) uses `R` daily and contributes packages to the Bioconductor project as part of his work at [LIBD](https://www.libd.org/). He is interested in high-throughput genomics assays such as RNA-seq, developments in R and helping others get started in their R journey. Leonardo has been learning and teaching R since 2008 and is a co-founder of the [LIBD rstats club](http://research.libd.org/rstatsclub/#.XKVLJetKi50). 
