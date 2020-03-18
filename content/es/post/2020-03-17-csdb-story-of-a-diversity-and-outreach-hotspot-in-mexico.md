@@ -7,7 +7,7 @@ categories: ["rstats"]
 tags: ["Bioconductor", "R Consortium"]
 ---
 
-_Esta entrada en el blog fue enviada al [blog del R Consortium](https://www.r-consortium.org/news/blog) donde fue publicada el 03/18/2020._
+_Esta entrada en el blog fue enviada al [blog del R Consortium](https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico) donde fue publicada el 03/18/2020._
 
 <img src="/img/2019-08-03-11.52.16.jpg" width="800px" />
 
@@ -30,3 +30,5 @@ Sin embargo, mientras aún solo estamos empezando nuestro camino, uno de nuestro
 Estoy orgulloso y emocionado de lo que hemos logrado con nuestros talleres de la CDSB de una semana, pero también de cómo hemos usado las herramientas que aprendimos de otras comunidades y que nos permiten seguir interactuando y comunicando durante todo el año. El tiempo nos dirá si nuestros esfuerzos crearon una onda que creció hasta convertirse en ola o si terminaremos desgastados. La sostenibilidad es un desafío, pero estamos muy motivados por el impacto que hemos tenido y solo podemos imaginar un futuro más brillante.
 
 <iframe src="https://giphy.com/embed/26hitlrnI4k5dKPPq" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studiosoriginals-stay-strong-comfort-26hitlrnI4k5dKPPq">via GIPHY</a></p>
+
+{{< tweet 1240293207755444225 >}}

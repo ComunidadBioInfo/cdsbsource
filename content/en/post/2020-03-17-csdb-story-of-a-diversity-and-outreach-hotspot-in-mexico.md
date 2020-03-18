@@ -7,7 +7,7 @@ categories: ["rstats"]
 tags: ["Bioconductor", "R Consortium"]
 ---
 
-_This blog post was submitted to the [R Consortium blog](https://www.r-consortium.org/news/blog) where it was published on 03/18/2020._
+_This blog post was submitted to the [R Consortium blog](https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico) where it was published on 03/18/2020._
 
 <img src="/img/2019-08-03-11.52.16.jpg" width="800px" />
 
@@ -31,4 +31,4 @@ I am proud and excited of what we have achieved with our one-week long CDSB work
 
 <iframe src="https://giphy.com/embed/26hitlrnI4k5dKPPq" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studiosoriginals-stay-strong-comfort-26hitlrnI4k5dKPPq">via GIPHY</a></p>
 
-
+{{< tweet 1240293207755444225 >}}
