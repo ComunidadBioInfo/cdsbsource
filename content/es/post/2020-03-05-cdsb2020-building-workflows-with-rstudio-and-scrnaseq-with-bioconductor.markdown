@@ -164,16 +164,34 @@ Día 5
 
 ## **Patrocinadores**
 
-
 [Sé nuestro **patrocinador**](../../niveles-de-patrocinio/)
 
+### Nivel platino
 
-| | | | |
-| --- | --- | --- | --- |
-| [![Centro de Ciencias Genómicas UNAM](/img/CCG_Logo_HR-300x114.png)](http://www.ccg.unam.mx) | [![](/img/LCG_Logo_HR-white.png)](http://www.lcg.unam.mx) | [ <img src="http://bioconductor.org/images/logo/jpg/bioconductor_logo_cmyk.jpg" width="250px">](http://bioconductor.org/) | 
+### Nivel oro
 
-<!-- [![](/img/RConsortium_Horizontal_Pantone-768x173.png)](https://www.r-consortium.org/) | -->
+### Nivel plata
+
+[<img src="http://bioconductor.org/images/logo/jpg/bioconductor_logo_cmyk.jpg" width="250px">](http://bioconductor.org/)
+
+[<img src="/img/RConsortium_Horizontal_Pantone-768x173.png" width="250px">](https://www.r-consortium.org/)
+
+## Organizadores
 
 CDSB es un nodo de la [Red Mexicana de Bioinformática](https://www.redmexicanadebioinformatica.org/) y organiza el taller anual junto con el [Nodo Nacional de Bioinformática (NNB)](http://www.nnb.unam.mx/).
+
+[<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/TIF-Logo_2020.png" width="250px" />](http://www.nnb.unam.mx/TIB2020/)
+
+[<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png" width="250px" />](https://www.redmexicanadebioinformatica.org/)
+
+[<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png" width="250px" />](http://www.nnb.unam.mx/)
+
+
+[<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png" width="250px" />](http://www.ccg.unam.mx/)
+
+[<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/LCG_Logo_HR-white-e1522778427811.png" width="250px" />](https://www.lcg.unam.mx/)
+
+[<img src="https://www.unam.mx/sites/default/files/images/eventos/azulb-390x390.jpg" width="250px">](http://www.unam.mx/)
+
 
 
