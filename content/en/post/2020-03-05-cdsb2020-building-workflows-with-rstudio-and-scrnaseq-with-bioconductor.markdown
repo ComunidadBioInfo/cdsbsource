@@ -7,7 +7,13 @@ categories: ["Events", "rstats"]
 featured: true
 ---
 
-#### Community of Bioinformatics Software Developers
+_This workshop is part of the [Mexican Bioinformatics Encounter (EBM in Spanish) 2020](http://www.nnb.unam.mx/TIB2020/) organized by CDSB with:_
+
+| TIB2020 | RMB | NNB | CCG-UNAM |
+| --- | --- | --- | --- |
+| [<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/TIF-Logo_2020.png" width="150px" />](http://www.nnb.unam.mx/TIB2020/) | [<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png" width="150px" />](https://www.redmexicanadebioinformatica.org/) | [<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png" width="150px" />](http://www.nnb.unam.mx/) | [<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png" width="150px" />](http://www.ccg.unam.mx/) |
+
+#### Community of Bioinformatics Software Developers (CDSB)
  	
   *  [Workshop webpage](https://comunidadbioinfo.github.io/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/)
 
@@ -33,7 +39,7 @@ featured: true
   * GitHub: [https://github.com/ComunidadBioInfo/cdsb2020](https://github.com/ComunidadBioInfo/cdsb2020)
 
  	
-  * [Registration](http://congresos.nnb.unam.mx/) (Will open on April XX, 2020)
+  * [Registration](http://www.nnb.unam.mx/TIB2020/)
 
 
 ## **Summary**
@@ -181,6 +187,8 @@ CDSB is a node of the [Mexican Bioinformatics Network (RMB in Spanish)](https://
 
 [<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png" width="250px" />](http://www.ccg.unam.mx/)
 
+With support from:
+
 [<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/LCG_Logo_HR-white-e1522778427811.png" width="250px" />](https://www.lcg.unam.mx/)
 
-[<img src="https://www.unam.mx/sites/default/files/images/eventos/azulb-390x390.jpg" width="250px">](http://www.unam.mx/)
+[<img src="https://www.zaragoza.unam.mx/portal/wp-content/Portal2015/Descargas/logo_unam_azul.jpg" width="250px">](http://www.unam.mx/)

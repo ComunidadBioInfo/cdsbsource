@@ -7,7 +7,13 @@ categories: ["Events", "rstats"]
 featured: true
 ---
 
-#### Comunidad de Desarrolladores de Software en Bioinformática
+_Este taller es parte del [Encuentro de Bioinformática en México (EBM) 2020](http://www.nnb.unam.mx/TIB2020/) organizado por la CDSB junto con:_
+
+| TIB2020 | RMB | NNB | CCG-UNAM |
+| --- | --- | --- | --- |
+| [<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/TIF-Logo_2020.png" width="150px" />](http://www.nnb.unam.mx/TIB2020/) | [<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png" width="150px" />](https://www.redmexicanadebioinformatica.org/) | [<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png" width="150px" />](http://www.nnb.unam.mx/) | [<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png" width="150px" />](http://www.ccg.unam.mx/) |
+
+#### Comunidad de Desarrolladores de Software en Bioinformática  (CDSB)
 
  	
   * [Página del taller](https://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/)
@@ -19,7 +25,7 @@ featured: true
   * Languaje: **inglés**
 
  	
-  * Cuando: Augusto 2 - Agosto 7, 2020
+  * Cuando: Agosto 3 - Agosto 7, 2020
 
  	
   * Donde: Un salón de la [LCG-UNAM](https://www.lcg.unam.mx/) dentro del [Centro de Ciencias Genómicas](http://www.ccg.unam.mx), Cuernavaca, Morelos, Mexico
@@ -34,7 +40,7 @@ featured: true
   * GitHub: [https://github.com/ComunidadBioInfo/cdsb2020](https://github.com/ComunidadBioInfo/cdsb2020)
 
  	
-  * [Registro](http://congresos.nnb.unam.mx/) (los registros empezarán el XX de abril del 2020)
+  * [Registro](http://www.nnb.unam.mx/TIB2020/)
 
 
 
@@ -189,9 +195,11 @@ CDSB es un nodo de la [Red Mexicana de Bioinformática](https://www.redmexicanad
 
 [<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png" width="250px" />](http://www.ccg.unam.mx/)
 
+Con apoyo de:
+
 [<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/LCG_Logo_HR-white-e1522778427811.png" width="250px" />](https://www.lcg.unam.mx/)
 
-[<img src="https://www.unam.mx/sites/default/files/images/eventos/azulb-390x390.jpg" width="250px">](http://www.unam.mx/)
+[<img src="https://www.zaragoza.unam.mx/portal/wp-content/Portal2015/Descargas/logo_unam_azul.jpg" width="250px">](http://www.unam.mx/)
 
 
 
