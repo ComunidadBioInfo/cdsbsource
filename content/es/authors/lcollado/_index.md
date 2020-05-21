@@ -13,7 +13,7 @@ role = "Investigador Científico"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Instituto Lieber para el Desarrollo del Cerebro", url = "https://www.libd.org/" } ]
+organizations = [ { name = "Instituto Lieber para el Desarrollo del Cerebro (LIBD)", url = "https://www.libd.org/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "[#rstats](https://twitter.com/search?q=%23rstats&src=hashtag_click)/🧠 genomics [@andrewejaffe](https://twitter.com/andrewejaffe) [@LieberInstitute](https://twitter.com/LieberInstitute)/[@lcgunam](https://twitter.com/lcgunam) [@jhubiostat](https://twitter.com/jhubiostat) [@jtleek](https://twitter.com/jtleek) alumni/[@LIBDrstats](https://twitter.com/LIBDrstats) [@CDSBMexico](https://twitter.com/CDSBMexico) co-founder/[@Bioconductor](https://twitter.com/Bioconductor) 🚕"
