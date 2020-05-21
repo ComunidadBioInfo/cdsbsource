@@ -16,7 +16,7 @@ role = "Research Scientist"
 organizations = [ { name = "Lieber Institute for Brain Development", url = "https://www.libd.org/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Brain genomics #rstats coder working w/ @andrewejaffe @LieberInstitute. @lcgunam @jhubiostat @jtleek alumni. @LIBDrstats @CDSBMexico co-founder."
+bio = "[#rstats](https://twitter.com/search?q=%23rstats&src=hashtag_click)/🧠 genomics [@andrewejaffe](https://twitter.com/andrewejaffe) [@LieberInstitute](https://twitter.com/LieberInstitute)/[@lcgunam](https://twitter.com/lcgunam) [@jhubiostat](https://twitter.com/jhubiostat) [@jtleek](https://twitter.com/jtleek) alumni/[@LIBDrstats](https://twitter.com/LIBDrstats) [@CDSBMexico](https://twitter.com/CDSBMexico) co-founder/[@Bioconductor](https://twitter.com/Bioconductor) 🚕"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "lcolladotor@gmail.com"
@@ -84,4 +84,4 @@ user_groups = ["Board", "Founders", "2018 Instructors", "2019 Instructors", "202
 
 +++
 
-[Leonardo](http://lcolladotor.github.io/) uses `R` daily and contributes packages to the Bioconductor project as part of his work at [LIBD](https://www.libd.org/). He is interested in high-throughput genomics assays such as RNA-seq, developments in R and helping others get started in their R journey. Leonardo has been learning and teaching R since 2008 and is a co-founder of the [LIBD rstats club](http://research.libd.org/rstatsclub/#.XKVLJetKi50). 
+[Leonardo](http://lcolladotor.github.io/) uses `R` daily and contributes [R packages](https://lcolladotor.github.io/pkgs/) to the [Bioconductor](http://www.bioconductor.org/) project as part of his work at [LIBD](https://www.libd.org/). He is interested in high-throughput genomics assays such as RNA-seq, developments in R and helping others get started in their R journey. Leonardo has been learning and teaching R since 2008 and is a co-founder of the [LIBD rstats club](http://research.libd.org/rstatsclub/#.XKVLJetKi50). 

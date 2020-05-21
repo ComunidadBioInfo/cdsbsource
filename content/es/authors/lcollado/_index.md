@@ -16,7 +16,7 @@ role = "Investigador Científico"
 organizations = [ { name = "Instituto Lieber para el Desarrollo del Cerebro", url = "https://www.libd.org/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Brain genomics #rstats coder working w/ @andrewejaffe @LieberInstitute. @lcgunam @jhubiostat @jtleek alumni. @LIBDrstats @CDSBMexico co-founder."
+bio = "[#rstats](https://twitter.com/search?q=%23rstats&src=hashtag_click)/🧠 genomics [@andrewejaffe](https://twitter.com/andrewejaffe) [@LieberInstitute](https://twitter.com/LieberInstitute)/[@lcgunam](https://twitter.com/lcgunam) [@jhubiostat](https://twitter.com/jhubiostat) [@jtleek](https://twitter.com/jtleek) alumni/[@LIBDrstats](https://twitter.com/LIBDrstats) [@CDSBMexico](https://twitter.com/CDSBMexico) co-founder/[@Bioconductor](https://twitter.com/Bioconductor) 🚕"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "lcolladotor@gmail.com"
@@ -84,4 +84,4 @@ user_groups = ["Junta Directiva", "Fundadores", "Instructores 2018", "Instructor
 
 +++
 
-[Leonardo](http://lcolladotor.github.io/) usa `R` diario y ha contribuido paquetes al proyecto de Bioconductor como parte de su trabajo en [LIBD](https://www.libd.org/). El está interesado en tecnologías genómicas que generan datos a gran escala como RNA-seq, avances en R y en ayudar a otros a empezar su aventura con R. Leonardo ha estado aprendiendo y enseñando R desde el 2008 y es co-fundador del [LIBD rstats club](http://research.libd.org/rstatsclub/#.XKVLJetKi50). 
+[Leonardo](http://lcolladotor.github.io/) usa `R` diario y ha contribuido [paquetes de R](https://lcolladotor.github.io/pkgs/) al proyecto de [Bioconductor](http://www.bioconductor.org/) como parte de su trabajo en [LIBD](https://www.libd.org/). El está interesado en tecnologías genómicas que generan datos a gran escala como RNA-seq, avances en R y en ayudar a otros a empezar su aventura con R. Leonardo ha estado aprendiendo y enseñando R desde el 2008 y es co-fundador del [LIBD rstats club](http://research.libd.org/rstatsclub/#.XKVLJetKi50). 
