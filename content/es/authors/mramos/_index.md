@@ -9,7 +9,7 @@ authors = ["mramos"]
 superuser = false
 
 # Role/position
-role = "Bioconductor Core Team Member"
+role = "Miembro del equipo central de Bioconductor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -23,19 +23,19 @@ email = "Marcel.Ramos@roswellpark.org"
 
 # List (academic) interests or hobbies
 interests = [
-  "Bioconductor Pkg Dev",
-  "Genomics",
-  "Data Integration",
-  "Biostatistics"
+  "Desarollo de paquetes Bioconductor",
+  "Genómica",
+  "Integración de datos",
+  "Bioestadística",
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["2020 Instructors"]
+user_groups = ["Instructores 2020"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MPH"
+  course = "Maestría en Salud Pública"
   institution = "CUNY School of Public Health at Hunter College"
 
 # Social/Academic Networking
@@ -77,14 +77,14 @@ user_groups = ["2020 Instructors"]
 
 +++
 
-[Marcel](https://LiNk-NY.github.io/) has written or contributed to over
-[9 packages](https://link-ny.github.io/packages/) in
-[Bioconductor](https://bioconductor.org) and CRAN.  He is interested in
-Bioconductor data classes and representations for the analysis of multi-omic
-and multi-modal data. He is the developer of the
-[MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment)
-package, currently in the top 10% most downloaded in Bioconductor.
-Marcel also has teaching appointments at the
-[CUNY School of Public Health](https://sph.cuny.edu) on introductory topics in
-Biostatistics, R, and SAS.
+[Marcel](https://LiNk-NY.github.io/) ha desarrollado o contribuido a más de
+[9 paquetes](https://link-ny.github.io/packages/) en
+[Bioconductor](https://bioconductor.org) y CRAN. Se interesa sobre las clases
+de datos en Bioconductor y sus representaciónes para el análisis de datos
+multi-omic y multi-modo. El desarrolla y mantiene el paquete
+[MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment),
+que actualmente está en el 10% de los paquetes mas descargados de Bioconductor.
+Marcel también da cursos en la universidad de
+[CUNY School of Public Health](https://sph.cuny.edu) sobre temas introductorios
+de Bioestadísticas, R, y SAS.
 
