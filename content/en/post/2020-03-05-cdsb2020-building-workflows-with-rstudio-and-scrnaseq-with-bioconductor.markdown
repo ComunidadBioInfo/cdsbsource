@@ -149,9 +149,13 @@ Day 5
 
 - [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/) (International Laboratory for Human Genome Research, Juriquilla, Querétaro, Mexico) Alejandra recently presented a [keynote at the Women in Data Science](https://twitter.com/MxPyladies/status/1233208231184543745?s=20) event in Mexico City.
 
+- [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) (Data Scientist, Novartis, Basel, Switzerland). Alejandro recently worked on the [regutools](http://bioconductor.org/packages/regutools) project with CDSB alumni that was published at [Oxford Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btaa575/5861528?redirectedFrom=fulltext).
+
 - [Joselyn Chávez](http://comunidadbioinfo.github.io/authors/josschavezf) (IBT-UNAM, Cuernavaca, Morelos, Mexico). Joselyn presented her work at [BioC2019](http://bioc2019.bioconductor.org/) thanks to a travel award, attended [rstudio::conf(2020)](https://resources.rstudio.com/rstudio-conf-2020) thanks to a diversity scholarship where she took the _What They Forgot to Teach You about R_ workshop, and recently was part of the [first `R` package submission to Bioconductor by CDSB alumni](https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/). She initially was a CDSB2018 student.
 
 - [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) (Lieber Institute for Brain Development, Baltimore, MD, USA). Leonardo recently published a [pre-print on spatial transcriptomics using 10xGenomics Visium data](https://twitter.com/fellgernon/status/1233661576433061888?s=20).
+
+- [Marcel Ramos Perez](http://comunidadbioinfo.github.io/authors/mramos/) (Roswell Park Comprehensive Cancer Center and CUNY School of Public Health, USA). Marcel is part of the [Bioconductor Core Team](http://bioconductor.org/about/core-team/) and is the author of many Bioconductor packages including [MultiAssayExperiment](http://bioconductor.org/packages/MultiAssayExperiment).
 
 - [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa/) (CONABIO and ITAM, Mexico). Teresa presented at [rstudio::conf(2020)](https://resources.rstudio.com/rstudio-conf-2020) her work on fast counting algorithms for Mexican presidential elections.
 
@@ -159,7 +163,7 @@ Day 5
 
 - [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/) (International Laboratory for Human Genome Research, Juriquilla, Querétaro, Mexico)
   
-- [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) (Dana-Farber Cancer Institute, Boston, MA, USA)
+- [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) (Data Scientist, Novartis, Basel, Switzerland)
 
 - [Joselyn Chávez](http://comunidadbioinfo.github.io/authors/josschavezf) (IBT-UNAM, Cuernavaca, Morelos, Mexico)
 

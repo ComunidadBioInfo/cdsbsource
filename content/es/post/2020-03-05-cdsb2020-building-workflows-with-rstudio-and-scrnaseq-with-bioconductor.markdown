@@ -158,9 +158,13 @@ Día 5
 
 - [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/) (International Laboratory for Human Genome Research, Juriquilla, Querétaro, Mexico) Alejandra recientemente dio una [plática plenaria en el evento de Mujeres en Ciencias de Datos (Women in Data Science)](https://twitter.com/MxPyladies/status/1233208231184543745?s=20) de la Ciudad de México.
 
+- [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) (Data Scientist, Novartis, Basel, Switzerland). Alejandro recientemente trabajó en el proyecto de [regutools](http://bioconductor.org/packages/regutools) con miembros de la CDSB que fue publicado en [Oxford Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btaa575/5861528?redirectedFrom=fulltext).
+
 - [Joselyn Chávez](http://comunidadbioinfo.github.io/authors/josschavezf) (IBT-UNAM, Cuernavaca, Morelos, Mexico). Joselyn presentó su trabajo en [BioC2019](http://bioc2019.bioconductor.org/) gracias a una beca, fue a [rstudio::conf(2020)](https://resources.rstudio.com/rstudio-conf-2020) gracias a una beca de diversidad donde tomó el taller de _What They Forgot to Teach You about R_ workshop, y recientemente fue parte del equipo que [envió el primer paquete de `R` a Bioconductor por parte de ex-alumnos de la CDSB](https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/). Initialmente fue una alumna en CDSB2018.
 
-- [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) (Lieber Institute for Brain Development, Baltimore, MD, USA). Leonardo recentiemente publicó un artículo [(pre-print) sobre la transcriptómica _espacial_ usando la tecnología Visium de 10x Genomics](https://twitter.com/fellgernon/status/1233661576433061888?s=20).
+- [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) (Lieber Institute for Brain Development, Baltimore, MD, USA). Leonardo recentiemente publicó un [artículo (pre-print)](https://twitter.com/fellgernon/status/1233661576433061888?s=20) sobre la transcriptómica _espacial_ usando la tecnología Visium de 10x Genomics.
+
+- [Marcel Ramos Perez](http://comunidadbioinfo.github.io/authors/mramos/) (Roswell Park Comprehensive Cancer Center and CUNY School of Public Health, USA). Marcel es parte del [Bioconductor Core Team](http://bioconductor.org/about/core-team/) y autor de muchos paquetes de Bioconductor incluyendo a [MultiAssayExperiment](http://bioconductor.org/packages/MultiAssayExperiment).
 
 - [Maria Teresa Ortiz](http://comunidadbioinfo.github.io/authors/mteresa/) (CONABIO and ITAM, Mexico). Teresa presentó en [rstudio::conf(2020)](https://resources.rstudio.com/rstudio-conf-2020) su trabajo sobre algoritmos de conteo rápido para las elecciones presidenciales de México.
 
@@ -168,7 +172,7 @@ Día 5
 
 - [Alejandra Medina-Rivera](http://comunidadbioinfo.github.io/authors/amedina/) (International Laboratory for Human Genome Research, Juriquilla, Querétaro, Mexico)
   
-- [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) (Dana-Farber Cancer Institute, Boston, MA, USA)
+- [Alejandro Reyes](http://comunidadbioinfo.github.io/authors/areyes/) (Data Scientist, Novartis, Basel, Switzerland)
 
 - [Joselyn Chávez](http://comunidadbioinfo.github.io/authors/josschavezf) (IBT-UNAM, Cuernavaca, Morelos, Mexico)
 
