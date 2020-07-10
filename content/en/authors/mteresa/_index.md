@@ -13,10 +13,10 @@ role = "Data Scientist | Lecturer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "CONABIO", url = "https://www.gob.mx/conabio" }, { name = "ITAM", url = "https://mcienciadatos.itam.mx/"}]
+organizations = [ { name = "Kantar", url = "https://www.kantarmedia.com/" }, { name = "ITAM", url = "https://mcienciadatos.itam.mx/"}]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a data analyst with experience in ecology and marketing, I currently work in CONABIO where I do statistical analysis related to biodiversity."
+bio = "I am a data analyst with experience in ecology and marketing, I currently work in Kantar where I do software development with R."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "teresa.ortiz.mancera@gmail.com"
@@ -83,7 +83,7 @@ user_groups = ["2018 Instructors", "2019 Instructors", "2020 Instructors"]
 
 +++
 
-I am a data analyst with experience in ecology and marketing, I currently work in CONABIO (Mexico’s National Commission of Biodiversity) where I do statistical analysis related to biodiversity.
+I am a data analyst with experience in ecology and marketing, I currently work in Kantar where I do software development with R.
 
 I also enjoy teaching, I teach statistic courses to master students in Data Science and to bachelors in Mathematics and Actuarial Sciences at ITAM. Lastly, I love R, I am co-organizer of R-Ladies CDMX and I regularly give short courses in R.
 
