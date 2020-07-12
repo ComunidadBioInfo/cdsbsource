@@ -9,14 +9,14 @@ authors = ["areyes"]
 superuser = false
 
 # Role/position
-role = "Genomic Data Scientist / Postdoc"
+role = "Data Scientist/Principal Scientist I"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Dana-Farber Cancer Institute and Harvard TH Chan School of Public Health", url = "https://www.hsph.harvard.edu/dfhcc/" } ]
+organizations = [ { name = "Novartis Institutes for BioMedical Research", url = "https://www.novartis.com/our-science/novartis-institutes-biomedical-research" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Postdoc @rafalab @dfcidatascience & @HarvardChanSPH | PhD with @wolfgangkhuber at @EMBL | Undergrad @lcgunam."
+bio = "Data Scientist for Early Drug Development at NIBR | Formerly at @dfcidatascience, @HarvardChanSPH, @EMBL and @lcgunam."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "alejandro.reyes.ds@gmail.com"
@@ -25,7 +25,8 @@ email = "alejandro.reyes.ds@gmail.com"
 interests = [
   "Data Science",
   "Genomics",
-  "R"
+  "R",
+  "Statistics"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -72,4 +73,4 @@ user_groups = ["Board", "Founders", "2019 Instructors", "2018 Instructors"]
 
 +++
 
-I am a postdoctoral research fellow in Rafael Irizarry's laboratory at the Dana-Farber Cancer Institute and Harvard TH Chan School of Public Health. I develop computational strategies to translate large amounts of data into biological knowledge. I am interested in (1) understanding how transcript isoforms contribute to cellular phenotypes and disease conditions and (2) integrating multi-omic data to unravel molecular cancer phenotypes. In order to ensure reproducibility of results, I implement my analyses in documented workflows, software packages and graphic interphases. I am a contributor of software to the Bioconductor project.
+I am a Data Scientist for Early Drug Development at Novartis Institute for BioMedical Research. I develop computational strategies to translate large amounts of data into biological knowledge. I implement my analyses in documented workflows, software packages and graphic interphases. I am a contributor of software to the Bioconductor project.
