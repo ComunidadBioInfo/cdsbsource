@@ -13,10 +13,10 @@ role = "Postdoc"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Instituto de Cáncer Dana-Farber de la Escuela de Salud Pública TH Chan de Harvard", url = "https://www.hsph.harvard.edu/dfhcc/" } ]
+organizations = [ { name = "Instituto de Investigaciones Biomedicas Novartis (NIBR)", url = "https://www.novartis.com/our-science/novartis-institutes-biomedical-research" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Postdoc @rafalab @dfcidatascience & @HarvardChanSPH | PhD with @wolfgangkhuber at @EMBL | Undergrad @lcgunam."
+bio = "Científico de datos para descrubimiento de fármacos en NIBR. Anteriormente trabajé y estudié en @dfcidatascience, @EMBL y @lcgunam."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "alejandro.reyes.ds@gmail.com"
@@ -25,7 +25,8 @@ email = "alejandro.reyes.ds@gmail.com"
 interests = [
   "Ciencia de Datos",
   "Genómica",
-  "R"
+  "R", 
+  "Estadística"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -72,4 +73,4 @@ user_groups = ["Junta Directiva", "Fundadores", "Instructores 2019", "Instructor
 
 +++
 
-Son un postdoc en el laboratorio de Rafael Irizarry en el Instituto de Cáncer Dana-Farber de la Escuela de Salud Pública TH Chan de Harvard. Desarrollo estrategias computacionles para traducir grandes cantidades de datos en conocimiento biológico. Estoy interesado en (1) entender como isoformas de transcritos contribuyen a fenotipos celulares y diversas condiciones en enfermedades, y (2) intergrar datos de multi-ómicos para desenmarañar los fenotipos moleculares en cáncer. De tal forma que pueda garantizar la reproducibilidad de mis resultados, implemento mis análisis usando flujos de trabajo documentados, paquetes de software e interfases gráficas. Son un contribuidor de software al proyecto de Bioconductor.
+Soy un científico de datos trabajando en el descubrimiento de fármacos nuevos en Novartis. Desarrollo estrategias computacionles para traducir grandes cantidades de datos en conocimiento biológico. De tal forma que pueda garantizar la reproducibilidad de mis resultados, implemento mis análisis usando flujos de trabajo documentados, paquetes de software e interfases gráficas. Son un contribuidor de software al proyecto de Bioconductor.
