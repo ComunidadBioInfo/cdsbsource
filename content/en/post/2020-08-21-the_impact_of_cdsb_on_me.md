@@ -1,5 +1,5 @@
 ---
-authors: ["admin"]
+authors: ["erickcufe"]
 date: 2020-08-21 00:00:00+00:00
 title: 'The impact of CDSB on me'
 slug: the_impact_of_cdsb_on_me
