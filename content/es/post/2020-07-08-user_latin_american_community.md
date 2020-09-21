@@ -7,7 +7,7 @@ categories: ["rstats"]
 tags: ["Latin American", "R Consortium"]
 ---
 
-_Esta sesión de useR!2020 y video fueron organizados por [Laura Acion](https://twitter.com/_lacion_), [Yanina Bellini Saibene](https://twitter.com/yabellini), [Paola Corrales](https://twitter.com/PaobCorrales) y [Paloma Rojas Saunero](https://twitter.com/palolili23). [Leonardo Collado Torres](https://twitter.com/fellgernon) coordinó el blog post. Este blog post fue originalmente publicado en el [blog del R Consortium](https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020) el 7 de julio del 2020._
+_Esta sesión de useR!2020 y video fueron organizados por [Laura Acion](https://twitter.com/_lacion_), [Yanina Bellini Saibene](https://twitter.com/yabellini), [Paola Corrales](https://twitter.com/PaobCorrales) y [Paloma Rojas Saunero](https://twitter.com/palolili23). [Leonardo Collado Torres](https://twitter.com/lcolladotor) coordinó el blog post. Este blog post fue originalmente publicado en el [blog del R Consortium](https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020) el 7 de julio del 2020._
 
 El 19 de junio de 2020 filmamos un video para  [useR!2020](https://user2020.r-project.org/) donde resaltamos las comunidades y organizaciones en América Latina en las que estamos involucradxs o que tienen participantes latinxs. En este blog post, queremos destacar estas iniciativas y recordarle a todxs que estamos más que dispuestxs a ayudarles a empezar organizaciones similares en sus comunidades locales.
 

@@ -162,7 +162,7 @@ Día 5
 
 - [Joselyn Chávez](http://comunidadbioinfo.github.io/authors/josschavezf) (IBT-UNAM, Cuernavaca, Morelos, Mexico). Joselyn presentó su trabajo en [BioC2019](http://bioc2019.bioconductor.org/) gracias a una beca, fue a [rstudio::conf(2020)](https://resources.rstudio.com/rstudio-conf-2020) gracias a una beca de diversidad donde tomó el taller de _What They Forgot to Teach You about R_ workshop, y recientemente fue parte del equipo que [envió el primer paquete de `R` a Bioconductor por parte de ex-alumnos de la CDSB](https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/). Initialmente fue una alumna en CDSB2018.
 
-- [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) (Lieber Institute for Brain Development, Baltimore, MD, USA). Leonardo recentiemente publicó un [artículo (pre-print)](https://twitter.com/fellgernon/status/1233661576433061888?s=20) sobre la transcriptómica _espacial_ usando la tecnología Visium de 10x Genomics.
+- [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) (Lieber Institute for Brain Development, Baltimore, MD, USA). Leonardo recentiemente publicó un [artículo (pre-print)](https://twitter.com/lcolladotor/status/1233661576433061888?s=20) sobre la transcriptómica _espacial_ usando la tecnología Visium de 10x Genomics.
 
 - [Marcel Ramos Perez](http://comunidadbioinfo.github.io/authors/mramos/) (Roswell Park Comprehensive Cancer Center and CUNY School of Public Health, USA). Marcel es parte del [Bioconductor Core Team](http://bioconductor.org/about/core-team/) y autor de muchos paquetes de Bioconductor incluyendo a [MultiAssayExperiment](http://bioconductor.org/packages/MultiAssayExperiment).
 

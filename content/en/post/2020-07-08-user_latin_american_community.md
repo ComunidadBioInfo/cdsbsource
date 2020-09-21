@@ -7,7 +7,7 @@ categories: ["rstats"]
 tags: ["Latin American", "R Consortium"]
 ---
 
-_This useR!2020 session and video was organized by [Laura Acion](https://twitter.com/_lacion_), [Yanina Bellini Saibene](https://twitter.com/yabellini), [Paola Corrales](https://twitter.com/PaobCorrales), and [Paloma Rojas Saunero](https://twitter.com/palolili23). [Leonardo Collado Torres](https://twitter.com/fellgernon) coordinated the blog post submission. This blog post was originally submitted to the [R Consortium blog](https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020) and published there on July 7th 2020._
+_This useR!2020 session and video was organized by [Laura Acion](https://twitter.com/_lacion_), [Yanina Bellini Saibene](https://twitter.com/yabellini), [Paola Corrales](https://twitter.com/PaobCorrales), and [Paloma Rojas Saunero](https://twitter.com/palolili23). [Leonardo Collado Torres](https://twitter.com/lcolladotor) coordinated the blog post submission. This blog post was originally submitted to the [R Consortium blog](https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020) and published there on July 7th 2020._
 
 
 

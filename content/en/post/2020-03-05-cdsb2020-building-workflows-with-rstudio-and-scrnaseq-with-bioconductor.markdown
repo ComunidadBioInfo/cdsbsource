@@ -153,7 +153,7 @@ Day 5
 
 - [Joselyn Chávez](http://comunidadbioinfo.github.io/authors/josschavezf) (IBT-UNAM, Cuernavaca, Morelos, Mexico). Joselyn presented her work at [BioC2019](http://bioc2019.bioconductor.org/) thanks to a travel award, attended [rstudio::conf(2020)](https://resources.rstudio.com/rstudio-conf-2020) thanks to a diversity scholarship where she took the _What They Forgot to Teach You about R_ workshop, and recently was part of the [first `R` package submission to Bioconductor by CDSB alumni](https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/). She initially was a CDSB2018 student.
 
-- [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) (Lieber Institute for Brain Development, Baltimore, MD, USA). Leonardo recently published a [pre-print on spatial transcriptomics using 10xGenomics Visium data](https://twitter.com/fellgernon/status/1233661576433061888?s=20).
+- [Leonardo Collado-Torres](http://comunidadbioinfo.github.io/authors/lcollado/) (Lieber Institute for Brain Development, Baltimore, MD, USA). Leonardo recently published a [pre-print on spatial transcriptomics using 10xGenomics Visium data](https://twitter.com/lcolladotor/status/1233661576433061888?s=20).
 
 - [Marcel Ramos Perez](http://comunidadbioinfo.github.io/authors/mramos/) (Roswell Park Comprehensive Cancer Center and CUNY School of Public Health, USA). Marcel is part of the [Bioconductor Core Team](http://bioconductor.org/about/core-team/) and is the author of many Bioconductor packages including [MultiAssayExperiment](http://bioconductor.org/packages/MultiAssayExperiment).
 

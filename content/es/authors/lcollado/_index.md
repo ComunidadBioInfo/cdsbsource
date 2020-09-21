@@ -9,14 +9,14 @@ authors = ["lcollado"]
 superuser = false
 
 # Role/position
-role = "Investigador Científico"
+role = "Investigador"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Instituto Lieber para el Desarrollo del Cerebro (LIBD)", url = "https://www.libd.org/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "[#rstats](https://twitter.com/search?q=%23rstats&src=hashtag_click)/🧠 genomics [@andrewejaffe](https://twitter.com/andrewejaffe) [@LieberInstitute](https://twitter.com/LieberInstitute)/[@lcgunam](https://twitter.com/lcgunam) [@jhubiostat](https://twitter.com/jhubiostat) [@jtleek](https://twitter.com/jtleek) alumni/[@LIBDrstats](https://twitter.com/LIBDrstats) [@CDSBMexico](https://twitter.com/CDSBMexico) co-founder/[@Bioconductor](https://twitter.com/Bioconductor) 🚕"
+bio = "[#rstats](https://twitter.com/search?q=%23rstats&src=hashtag_click)/🧠 genomics [@LieberInstitute](https://twitter.com/LieberInstitute)/[@lcgunam](https://twitter.com/lcgunam) [@jhubiostat](https://twitter.com/jhubiostat) [@jtleek](https://twitter.com/jtleek) [@andrewejaffe](https://twitter.com/andrewejaffe) alumni/[@LIBDrstats](https://twitter.com/LIBDrstats) [@CDSBMexico](https://twitter.com/CDSBMexico) co-founder/[@Bioconductor](https://twitter.com/Bioconductor) 🚕"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "lcolladotor@gmail.com"
@@ -63,7 +63,7 @@ user_groups = ["Junta Directiva", "Fundadores", "Instructores 2018", "Instructor
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/fellgernon"
+  link = "https://twitter.com/lcolladotor"
 
 [[social]]
   icon = "google-scholar"
