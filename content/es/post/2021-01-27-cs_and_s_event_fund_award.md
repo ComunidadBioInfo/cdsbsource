@@ -32,6 +32,7 @@ Agradecemos mucho todo el apoyo y la confianza que nos dan dado al equipo de la 
 * Leonardo Collado Torres, CDSB ⭐️💫
 * Joselyn Chavez, CDSB 💫
 * Alejandro Reyes, CDSB ⭐️💫
+* Erick Cuevas Fernández, CDSB 💫
 * Irma Martínez, Coordinación de Educación de la RMB, Representante del NNB-CCG
 * Alejandra Medina Rivera, CDSB ⭐️💫, Presidente RMB
 * Shirley Alquicira, Coordinación de Proyectos RMB y NNB

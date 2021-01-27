@@ -32,6 +32,7 @@ Thank you!
 * Leonardo Collado Torres, CDSB ⭐️💫
 * Joselyn Chavez, CDSB 💫
 * Alejandro Reyes, CDSB ⭐️💫
+* Erick Cuevas Fernández, CDSB 💫
 * Irma Martínez, Education coordinator at Mexican Bioinformatics Network (RMB in Spanish), National Bioinformatics Node representative (NNB in Spanish)
 * Alejandra Medina Rivera, CDSB ⭐️💫, President RMB
 * Shirley Alquicira, Project Manager at RMB, NNB
