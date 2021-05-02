@@ -64,6 +64,11 @@ user_groups = ["Board", "Founders", "2018 Instructors", "2019 Instructors", "202
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/lcolladotor"
+  
+[[social]]
+  icon = "youtube"
+  icon_pack = "fab"
+  link = "https://www.youtube.com/c/LeonardoColladoTorres/playlists"
 
 [[social]]
   icon = "google-scholar"

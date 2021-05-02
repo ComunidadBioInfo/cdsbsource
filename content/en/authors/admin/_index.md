@@ -54,6 +54,11 @@ user_groups = ["Community"]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/CDSBMexico"
+  
+[[social]]
+  icon = "youtube"
+  icon_pack = "fab"
+  link = "https://www.youtube.com/channel/UCHCdYfAXVzJIUkMoMSGiZMw"
 
 [[social]]
   icon = "github"
@@ -77,3 +82,14 @@ user_groups = ["Community"]
 Welcome to the Community of Bioinformatics Software Developers (CDSB in Spanish)! 
 
 We are a group interested in helping members of Latin American countries acquire the necessary skills to contribute to open source software development. [R](https://cran.r-project.org/) is now used by many industries and has been a long time favorite in academia. As `R` users grow more familiar with the language, they typically end up writing their own functions and sharing them with others via packages. These packages can be distributed via [GitHub](https://github.com/) or via formal repositories like [CRAN](https://cran.r-project.org/) and [Bioconductor](http://bioconductor.org/). `Bioconductor` is a project centered around open source software for bioinformatics made with `R` that has been helpful to many of us. We want to improve the representation of Latin American countries in open source developer communities to make them more diverse. Thus, our main goal is to help teach Latin Americans how to make `R` packages and share them via GitHub, CRAN and Bioconductor.
+
+You can find some of our recorded videos available on [our YouTube channel](https://www.youtube.com/channel/UCHCdYfAXVzJIUkMoMSGiZMw).
+
+## Mini courses RMB 2020-2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg66mMnRH1LyR16RZTswat6n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## CDSB2020
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg5h-7uTFZjgP7VZUEadZZfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
