@@ -4,7 +4,7 @@ date: 2020-03-05 13:30:00+00:00
 slug: cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor
 title: "CDSB Workshop 2020: Building workflows with RStudio and Bioconductor for single cell RNA-seq analysis"
 categories: ["Events", "rstats"]
-featured: true
+featured: false
 ---
 
 _This workshop is part of the [Mexican Bioinformatics Encounter (EBM in Spanish) 2020](http://www.nnb.unam.mx/TIB2020/) organized by CDSB with:_

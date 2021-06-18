@@ -4,7 +4,7 @@ date: 2020-03-05 13:30:00+00:00
 slug: cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor
 title: "Taller CDSB 2020: Construyendo flujos de trabajo con RStudio y Bioconductor para datos transcriptómicos de célula única (scRNA-seq)"
 categories: ["Events", "rstats"]
-featured: true
+featured: false
 ---
 
 _Este taller es parte del [Encuentro de Bioinformática en México (EBM) 2020](http://www.nnb.unam.mx/TIB2020/) organizado por la CDSB junto con:_
