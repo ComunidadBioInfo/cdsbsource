@@ -9,14 +9,14 @@ authors = ["areyes"]
 superuser = false
 
 # Role/position
-role = "Postdoc"
+role = "Científico de datos/Investigador Principal I"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Instituto de Investigaciones Biomedicas Novartis (NIBR)", url = "https://www.novartis.com/our-science/novartis-institutes-biomedical-research" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Científico de datos para descrubimiento de fármacos en NIBR. Anteriormente trabajé y estudié en @dfcidatascience, @EMBL y @lcgunam."
+bio = "Científico de datos para descubrimiento de fármacos en NIBR. Anteriormente trabajé y estudié en @dfcidatascience, @EMBL y @lcgunam."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "alejandro.reyes.ds@gmail.com"
