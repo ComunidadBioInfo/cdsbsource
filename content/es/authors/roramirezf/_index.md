@@ -38,7 +38,7 @@ user_groups = ["Instructores 2021"]
 [[education.courses]]
   course = "Candidato a doctor en Biomedicina Computacional"
   institution = "Facultad de Biociencias, Universidad de Heidelberg"
-  year = presente
+#  year = 
 
 [[education.courses]]
   course = "Especialista en Estadística Aplicada"
