@@ -30,7 +30,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["2018 Instructors"]
+user_groups = ["2018 Instructors", "2021 Instructors"]
 
 # List qualifications (such as academic degrees)
 
@@ -43,6 +43,11 @@ user_groups = ["2018 Instructors"]
   icon = "envelope"
   icon_pack = "fas"
   link = "mailto:aponce@conabio.gob.mx"  # For a direct email link, use "mailto:test@example.org".
+
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/Aleponcem"
 
 [[social]]
   icon = "google-scholar"

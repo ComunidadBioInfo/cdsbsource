@@ -54,10 +54,10 @@ user_groups = ["Instructores 2021"]
   icon_pack = "fab"
   link = "https://twitter.com/alabasti1"
 
-#[[social]]
-#  icon = "github"
-#  icon_pack = "fab"
-#  link = "https://github.com/josschavezf"
+[[social]]
+ icon = "github"
+ icon_pack = "fab"
+ link = "https://github.com/auroralabastida"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
