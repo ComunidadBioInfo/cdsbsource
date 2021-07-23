@@ -13,7 +13,7 @@ role = "Investigator"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas", url = "http://iner.salud.gob.mx/interna/lab_biopatologia.html" } ]
+organizations = [ { name = "National Institute of Respiratory Diseases Ismael Cosío Villegas", url = "http://iner.salud.gob.mx/interna/lab_biopatologia.html" } ]
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -37,12 +37,12 @@ user_groups = ["2021 Instructors"]
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD in Biomedical Sciences"
-  institution = "Universidad Nacional Autónoma de México"
+  institution = "National Autonomous University of Mexico (UNAM)"
   year = 2014
 
 [[education.courses]]
   course = "Bachelor in Biology"
-  institution = "Universidad Veracruzana"
+  institution = "Veracruz University"
   year = 2007
 
 # Social/Academic Networking
