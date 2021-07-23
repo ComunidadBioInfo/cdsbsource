@@ -1,6 +1,6 @@
 +++
 # Display name
-name = Elisa Márquez Zavala BSc, Egresada de maestría"
+name = "Elisa Márquez Zavala, MC"
 
 # Username (this should match the folder name)
 authors = ["emarquezz"]
@@ -32,7 +32,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["2021 Instructors"]
+user_groups = ["Instructores 2021"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]

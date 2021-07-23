@@ -1,6 +1,6 @@
 +++
 # Display name
-name = Elisa Márquez Zavala BSc, Masters candidate"
+name = "Elisa Márquez Zavala, MsC"
 
 # Username (this should match the folder name)
 authors = ["emarquezz"]
@@ -76,4 +76,4 @@ user_groups = ["2021 Instructors"]
 
 +++
 
-[Elisa](http://emarquezz.github.io/) integrates multiple omic and phenotipic data with genome-scale metabolic modelling  for rational strain design and bioprocess optimization project as part of his work at [CCG](https://www.libd.org/) with [Utrilla Lab](https://sites.google.com/ccg.unam.mx/utrillalab/home). She is interested in the integration of different types of data such as RNA-seq, proteomics, Ribo-seq and fitness information, with metabolism and expression models built with the`python` module [COBRAme](https://cobrame.readthedocs.io/en/master/). Her objective is to make a quantitative comparison between genome and proteome reduction strategies for redirecting cellular resources to synthetic functions. 
+[Elisa](http://emarquezz.github.io/) integrates multiple omics and phenotypic data with genome-scale metabolic modeling  for rational strain design and bioprocess optimization project as part of his work at [CCG](https://www.libd.org/) with [Utrilla Lab](https://sites.google.com/ccg.unam.mx/utrillalab/home). She is interested in the integration of different types of data such as RNA-seq, proteomics, Ribo-seq and fitness information, with metabolism and expression models built with the`python` module [COBRAme](https://cobrame.readthedocs.io/en/master/). Her objective is to make a quantitative comparison between genome and proteome reduction strategies for redirecting cellular resources to synthetic functions. 
