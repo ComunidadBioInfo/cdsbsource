@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Joselyn Chavez, Candidata a Doctorado"
+name = "Joselyn Chavez, PhD"
 
 # Username (this should match the folder name)
 authors = ["josschavezf"]
@@ -9,14 +9,14 @@ authors = ["josschavezf"]
 superuser = false
 
 # Role/position
-role = "Candidata a Doctorado"
+role = "Estancia Postdoctoral"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Instituto de Biotecnología - UNAM", url = "http://www.ibt.unam.mx/" } ]
+organizations = [ { name = "Icahn School of Medicine at Mount Sinai", url = "https://icahn.mssm.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Estudiante del doctorado en @ibt_unam Desarrolladora de @RStudio @Bioconductor Miembra de @CDSBMexico."
+bio = "Estancia Postdoctoral en @IcahnMountsinai Desarrolladora de @RStudio @Bioconductor Miembra de @CDSBMexico."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "joselynchavezf@gmail.com"
@@ -26,12 +26,12 @@ interests = [
   "Bioinformática",
   "Programación en R",
   "Bioconductor",
-  "Genética"
+  "Transcriptómica espacial"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Junta Directiva", "Instructores 2020", "Exalumnos Desarrolladores de Bioconductor", "Instructores 2021"]
+user_groups = ["Junta Directiva", "Instructores 2020", "Exalumnos Desarrolladores de Bioconductor", "Instructores 2021", "Instructores 2022"]
 
 # List qualifications (such as academic degrees)
 
@@ -69,8 +69,11 @@ user_groups = ["Junta Directiva", "Instructores 2020", "Exalumnos Desarrolladore
 
 +++
 
-Con una formación como Ingeniera de Biotecnología por el Instituto Politécnico Nacional de México ([IPN](http://www.upiig.ipn.mx/)), empecé mi carrera científica estudiando la Epigenética de Plantas en el  [CINVESTAV](http://www.ira.cinvestav.mx/), y después obtuve mi maestría por el [Instituto de Biotecnología](http://www.ibt.unam.mx/) de la Universidad Nacional Autónoma de México  ([UNAM](http://www.unam.mx/)) enfocándome en la Epigenética de Drosophila. Durante mis estudios de maestría empecé a tomar unos cursos básicos de R con estadística y visualización de datos que despertaron mi interés en bioinformática y programación.
+Durante mi proyecto de Doctorado, en el [Laboratorio de Genómica Computacional](https://biocomputo2.ibt.unam.mx) del IBT-UNAM, me enfoqué en el estudio de los reguladores transcripcionales bacterianos a través de la evolución. Adicionalmente, adquirí experiencia en la escritura de paquetes de R/Bioconductor y la enseñanza de R.
 
-Actualmente como estudiante del doctorado, en el laboratorio de Merino [Lab](http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.grupo,par:Gep,tit:_Grupo_del__Dr._Enrique_Merino) estoy desarrollando un proyecto bioinformático enfocado en el análisis de reguladores transcripcionales bacterianos, especialmente en el superphylum PVC (Planctomycetes-Chlamydiae-Verrucomicrobia). Estoy interesada en el origen evolutivo de las redes de regulación transcripcional desde bacterias y arqueas que llevaron a la regulación génica en eucariotas tal y como la conocemos en la actualidad.
+Actualmente, me encuentro realizando una estancia postdoctoral en el Departamento de Medicina Personalizada de la [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu), en la ciudad de Nueva York. Mi principal interés es la bioinformática y el desarrollo de software de código abierto para el análisis de datos transcriptómicos espaciales de célula única. 
+
+Además de mi proyecto de investigación, disfruto dar clases de R y participar en actividades que ayudan a expandir la comunidad de desarrolladores de software en latinoamérica.
+
 
 
