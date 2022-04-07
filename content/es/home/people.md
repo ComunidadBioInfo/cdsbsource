@@ -17,6 +17,7 @@ subtitle = "de trabajo"
                  "Junta Directiva",
                  "Fundadores",
                  "Exalumnos Desarrolladores de Bioconductor",
+                 "Instructores 2022",
                  "Instructores 2021",
                  "Instructores 2020",
                  "Instructores 2019",

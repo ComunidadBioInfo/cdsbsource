@@ -17,6 +17,7 @@ subtitle = ""
                  "Board",
                  "Founders",
                  "Bioconductor Developer Alumni",
+                 "2022 Instructors",
                  "2021 Instructors",
                  "2020 Instructors",
                  "2019 Instructors",
