@@ -16,14 +16,16 @@ featured: true
 Estamos encantadxs de anunciar que la [CDSB](https://twitter.com/CDSBMexico), junto con la [Red Mexicana de Bioinformática](https://twitter.com/RBioinformatica) (RMB) y el [Nodo Nacional de Bioinformática en la UNAM](https://twitter.com/nnb_unam) (NNB-CCG), está organizando el taller [Análisis avanzado de metagenomas. Creando tus flujos de análisis con R/Bioconductor](https://comunidadbioinfo.github.io/cdsb2022)   como parte del [Encuentro Nacional de Bioinformática México 2022](http://congresos.nnb.unam.mx/EBM2022/). 
 
 - Nivel: Avanzado
-- Idioma: español.
-- ¿Dónde? Este taller se impartiéa en línea a través de Zoom. 
-- ¿Cuándo? 01 al 05 de agosto de 2022, en horario de 9:00am a 5:30pm hora Ciudad de México.
-- [Registro](http://congresos.nnb.unam.mx/EBM2022/)
+- Idioma: Español.
+- ¿Dónde? Este taller se impartirá en línea a través de Zoom. 
+- ¿Cuándo? 01 al 05 de agosto de 2022, en horario de 9:00am a 5:00pm hora Ciudad de México.
+- Duración: 40 horas.
+- Registro
 - Twitter: @CDSBMexico
 - Facebook: @CDSBMexico
 - GitHub: https://github.com/ComunidadBioInfo/cdsb2022
 - Página del taller: https://comunidadbioinfo.github.io/cdsb2022
+- [Calendario](http://bit.ly/calendarcdsb2022)
 
 ## ¿Qué vas a aprender?
 
@@ -52,12 +54,18 @@ Este taller es de un nivel **Avanzado**, por lo que necesitarás contar con algu
 
 ## Instructores
 
-Instructores:
+**Instructores:**
+
 - [Dra. Mirna Vázquez Rosas Landa](https://comunidadbioinfo.github.io/es/authors/mirnavrl/): Estancia Postdoctoral en la Universidad de Texas en Austin.
 - [Dra. Joselyn Chávez Fuentes](https://comunidadbioinfo.github.io/es/authors/josschavezf/): Estancia Postdoctoral en Icahn School of Medicine at Mount Sinai.
 - [M.C. Erick Cuevas Fernández](https://comunidadbioinfo.github.io/es/authors/erickcufe/): Estudiante de Doctorado en la Universidad Nacional Autónoma de México.
 - [Dra. Alejandra Medina Rivera](https://comunidadbioinfo.github.io/es/authors/amedina/): Investigadora Asociada en el Laboratorio Internacional de Investigación de Medicina Genómica, UNAM. 
 - [Dra. Yalbi Balderas Martínez](https://comunidadbioinfo.github.io/es/authors/yalbibalderas/):  Investigadora en el Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas.
+
+**Instructores invitados:**
+
+- [Dr. Brett Baker](https://comunidadbioinfo.github.io/es/authors/brettbaker/)
+- [Dra. Valerie De Anda](https://comunidadbioinfo.github.io/es/authors/valeriedeanda/)
 
 ## Programa
 
