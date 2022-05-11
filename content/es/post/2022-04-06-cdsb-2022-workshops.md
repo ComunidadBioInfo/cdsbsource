@@ -13,14 +13,14 @@ featured: true
 
 #### Comunidad de Desarrolladores de Software en Bioinformática  (CDSB)
 
-Estamos encantadxs de anunciar que la [CDSB](https://twitter.com/CDSBMexico), junto con la [Red Mexicana de Bioinformática](https://twitter.com/RBioinformatica) (RMB) y el [Nodo Nacional de Bioinformática en la UNAM](https://twitter.com/nnb_unam) (NNB-CCG), está organizando el taller [Análisis avanzado de metagenomas. Creando tus flujos de análisis con R/Bioconductor](https://comunidadbioinfo.github.io/cdsb2022)   como parte del [Encuentro Nacional de Bioinformática México 2022](http://congresos.nnb.unam.mx/EBM2022/). 
+Estamos encantadxs de anunciar que la [CDSB](https://twitter.com/CDSBMexico), junto con la [Red Mexicana de Bioinformática](https://twitter.com/RBioinformatica) (RMB) y el [Nodo Nacional de Bioinformática en la UNAM](https://twitter.com/nnb_unam) (NNB-CCG), está organizando el taller [Análisis avanzado de metagenomas. Creando tus flujos de análisis con R/Bioconductor](https://comunidadbioinfo.github.io/cdsb2022)   como parte del [Encuentro Nacional de Bioinformática México 2022](https://www.nnb.unam.mx/EBM2022/). 
 
 - Nivel: Avanzado
 - Idioma: Español.
 - ¿Dónde? Este taller se impartirá en línea a través de Zoom. 
 - ¿Cuándo? 01 al 05 de agosto de 2022, en horario de 9:00am a 5:00pm hora Ciudad de México.
 - Duración: 40 horas.
-- Registro
+- [Registro](https://www.nnb.unam.mx/EBM2022/registro/)
 - Twitter: @CDSBMexico
 - Facebook: @CDSBMexico
 - GitHub: https://github.com/ComunidadBioInfo/cdsb2022
@@ -66,6 +66,7 @@ Este taller es de un nivel **Avanzado**, por lo que necesitarás contar con algu
 
 - [Dr. Brett Baker](https://comunidadbioinfo.github.io/es/authors/brettbaker/)
 - [Dra. Valerie De Anda](https://comunidadbioinfo.github.io/es/authors/valeriedeanda/)
+- [Dr. Leonardo Collado-Torres](https://comunidadbioinfo.github.io/es/authors/lcollado/)
 
 ## Programa
 
