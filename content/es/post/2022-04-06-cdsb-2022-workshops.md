@@ -29,7 +29,7 @@ Estamos encantadxs de anunciar que la [CDSB](https://twitter.com/CDSBMexico), ju
 
 ## ¿Qué vas a aprender?
 
-En los últimos años la metagenómica ha cobrado una gran importancia para el descubrimiento de nuevos grupos microorganismos y rutas metabólicas. En este taller revisaremos los métodos más recientes para analizar datos metagenómicos, usando herramientas de software libre y paquetes de R especializados que están disponibles libremente vía Bioconductor. 
+En los últimos años la metagenómica ha cobrado una gran importancia para el descubrimiento de nuevos grupos de microorganismos y rutas metabólicas. En este taller revisaremos los métodos más recientes para analizar datos metagenómicos, usando herramientas de software libre y paquetes de R especializados que están disponibles libremente vía Bioconductor. 
 
 Durante este taller aprenderás a reconstruir genomas a partir de metagenomas utilizando diferentes herramientas de software libre. Revisaremos diferentes estrategias de binning y de predicción metabólica; además, identificaremos áreas de oportunidad para el desarrollo de software en metagenómica y aprenderás también cómo documentar tu código utilizando RMarkdown.
 
