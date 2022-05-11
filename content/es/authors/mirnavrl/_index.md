@@ -69,8 +69,12 @@ user_groups = ["Junta Directiva", "Instructores 2021", "Instructores 2022"]
 
 +++
 
-Mirna Vázquez Rosas Landa estudió su doctorado en el Instituto de Ecología de la UNAM. En su tesis analizó los genomas de las bacterias que viven en las pozas de Cuatro Ciénegas buscando señales de adaptación al ambiente. Posteriormente realizó una estancia postdoctoral en el Instituto de Ecología en Xalapa, Veracruz, donde se dedicó a buscar estrategias amigables con el ambiente para el control de plagas utilizando diversas ciencias ómicas como herramienta.
+Soy una ecóloga evolutiva que busca entender la vida microbiana, cuáles son los factores ecológicos y evolutivos que moldean las poblaciones microbianas, así como entender la dinámica de sus genomas a la luz de la evolución. 
 
-Recientemente se unió al grupo de Brett Baker en la Universidad de Texas en Austin, donde reconstruye el metabolismo de los microbios que viven en las ventilas hidrotermales del Golfo de California. Le gusta la comunidad de R y está trabajando en su primer paquete que está enfocado en el análisis del metabolismo de genomas no anotados.
+Actualmente, soy postdoc en el laboratorio de ecología microbiana en la Universidad de Texas en Austin, donde mi investigación se centra en el descubrimiento de linajes y rutas metabólicas nuevas de microrganismos del océano a través de la reconstrucción de genomas obtenidos con metagenómica. 
+
+Hice mi doctorado en el Instituto de Ecología de la UNAM, donde estudié la evolución de las bacterias utilizando genómica comparada y poblacional. Para dicha investigación, aislé bacterias de las pozas de Cuatro Ciénegas y busqué genes asociados a la adaptación local. Durante mi primer postdoc, estudié la interacción entre las plantas, los insectos y los microbios, utilizando herramientas transcriptómicas y librerías de amplicones de 16s RNA. 
+
+Me gusta la comunidad de R, soy co-organizadora de R-Ladies Xalapa y San Cristóbal, y también parte del comité organizador de la Comunidad de Desarrolladores de Software de Bioinformática (CDSB). Actualmente, estoy trabajando en mi primer paquete de R que se llama Rbims y está enfocado en el análisis del metabolismo.
 
 

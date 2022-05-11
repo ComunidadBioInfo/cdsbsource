@@ -68,8 +68,10 @@ user_groups = ["Board","2021 Instructors", "2022 Instructors"]
 
 +++
 
-Mirna Vázquez Rosas Landa estudió su doctorado en el Instituto de Ecología de la UNAM. En su tesis analizó los genomas de las bacterias que viven en las pozas de Cuatro Ciénegas buscando señales de adaptación al ambiente. Posteriormente realizó una estancia postdoctoral en el Instituto de Ecología en Xalapa, Veracruz, donde se dedicó a buscar estrategias amigables con el ambiente para el control de plagas utilizando diversas ciencias ómicas como herramienta.
+I am an evolutionary ecologist who seeks to understand microbial life, what are the ecological and evolutionary factors that shape microbial populations, as well as understanding the dynamics of their genomes in the light of evolution. 
 
-Recientemente se unió al grupo de Brett Baker en la Universidad de Texas en Austin, donde reconstruye el metabolismo de los microbios que viven en las ventilas hidrotermales del Golfo de California. Le gusta la comunidad de R y está trabajando en su primer paquete que está enfocado en el análisis del metabolismo de genomas no anotados.
+I’m currently a postdoc at the microbial ecology lab at the University of Texas at Austin, where my research focuses on the discovery of new lineages and metabolic pathways of ocean microorganisms through the reconstruction of genomes obtained with metagenomics. 
 
+I did my PhD at the Institute of Ecology UNAM, where I studied the evolution of bacteria using comparative and population genomics. For this research, I isolated bacteria from the pools of Cuatro Ciénegas and looked for genes associated with local adaptation. During my first postdoc, I studied the interaction between plants, insects and microbes, using transcriptomic tools and 16s RNA amplicone libraries. 
 
+I like the R community, I am co-organizer of R-Ladies Xalapa and San Cristobal, and also part of the board team of the Community of Software Developers in Bioinformatics (CDSB). Currently, I am working on my first R package called Rbims that it's focused on the analysis of metabolism.
