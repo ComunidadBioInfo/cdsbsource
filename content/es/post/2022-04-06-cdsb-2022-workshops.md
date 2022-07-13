@@ -1,6 +1,6 @@
 ---
 authors: ["admin"]
-date: 2022-04-06 00:00:00+00:00
+date: 2022-04-06 
 slug: cdsb-2022-workshops
 title: "Taller CDSB 2022: Análisis avanzado de metagenomas. Creando tus flujos de análisis con R/Bioconductor."
 categories: ["Events", "rstats"]
@@ -97,6 +97,26 @@ Este taller es de un nivel **Avanzado**, por lo que necesitarás contar con algu
 
 
 ¡Lxs esperamxs!
+
+
+## Organizadores
+
+[<img src="https://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_0x70_resize_lanczos_2.png" width="250px" />](https://comunidadbioinfo.github.io/es/)
+
+
+[<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png" width="250px" />](http://www.nnb.unam.mx/)
+
+
+[<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png" width="250px" />](http://www.ccg.unam.mx/)
+
+[<img src="https://www.zaragoza.unam.mx/portal/wp-content/Portal2015/Descargas/logo_unam_azul.jpg" width="250px">](http://www.unam.mx/)
+
+
+## Con el apoyo de:
+
+[<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png" width="250px" />](https://www.redmexicanadebioinformatica.org/)
+
+[<img src="https://bioconductor.org/images/logo_bioconductor.gif" width="250px" />](https://bioconductor.org)
 
 
 

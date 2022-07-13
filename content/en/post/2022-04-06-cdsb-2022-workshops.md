@@ -1,9 +1,8 @@
 ---
 authors: ["admin"]
-date: 2022-05-11 00:00:00+00:00
+date: 2022-05-11
 slug: cdsb-2022-workshops
-title: "CDSB Workshop 2022: Advanced analysis of metagenomes. Creating workflows with R/Bioconductor.
-"
+title: "CDSB Workshop 2022: Advanced analysis of metagenomes. Creating workflows with R/Bioconductor."
 categories: ["Events", "rstats"]
 featured: true
 ---
@@ -102,6 +101,28 @@ This course is designed for people who want to learn how to reconstruct genomes 
 
 
 Looking forward to see you!
+
+
+## Organizers
+
+[<img src="https://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_0x70_resize_lanczos_2.png" width="250px" />](https://comunidadbioinfo.github.io/)
+
+
+[<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png" width="250px" />](http://www.nnb.unam.mx/)
+
+
+[<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png" width="250px" />](http://www.ccg.unam.mx/)
+
+[<img src="https://www.zaragoza.unam.mx/portal/wp-content/Portal2015/Descargas/logo_unam_azul.jpg" width="250px">](http://www.unam.mx/)
+
+
+## With the support of:
+
+[<img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png" width="250px" />](https://www.redmexicanadebioinformatica.org/)
+
+[<img src="https://bioconductor.org/images/logo_bioconductor.gif" width="250px" />](https://bioconductor.org)
+
+
 
 
 
