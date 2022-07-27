@@ -84,10 +84,10 @@ Este taller es de un nivel **Avanzado**, por lo que necesitarás contar con algu
 **Día 3:** Reconstrucción metabólica e inferencia filogenética
 - Asignación taxonómica.
 - Análisis de vías metabólicas. 
-- MEBs
 - Sesión social: Conociendo a la comunidad.
 
 **Día 4:**
+- Un vistazo a la creación de paquetes de R/Bioconductor
 - Proyectos colaborativos de metagenomas.
 
 **Día 5:**
