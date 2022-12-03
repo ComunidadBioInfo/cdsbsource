@@ -58,7 +58,7 @@ user_groups = ["Comunidad"]
 [[social]]
   icon = "youtube"
   icon_pack = "fab"
-  link = "https://www.youtube.com/channel/UCHCdYfAXVzJIUkMoMSGiZMw"
+  link = "https://youtube.com/@CDSB"
 
 [[social]]
   icon = "github"
@@ -83,14 +83,24 @@ user_groups = ["Comunidad"]
 
 Somos un grupo interesado en ayudarle a miembros de países Latino Americanos en el proceso de acquirir las habilidades necesarias para contribuir a la comunidad de software libre. Hoy en día se usa [R](https://cran.r-project.org/) en muchas industrias y desde el inicio fue adoptado por académicos. Mientras los usuarios de `R` van familiarizandose con el lenguaje terminan escribiendo funciones que luego son agrupadas y compartidas vía paquetes. Estos paquetes son distribuidos vía [GitHub](https://github.com/) o vía repositorios más formales como lo son [CRAN](https://cran.r-project.org/) y [Bioconductor](http://bioconductor.org/). `Bioconductor` es un proyecto centrado alrededor de software libre para la bioinformática hecho con `R` y ha sido de gran utilidad para varios de nosotros. Como parte de la CDSB buscamos aumentar la representación de países Latino Americanos en las comunidades de desarrolladores de software libre y de esa forma aumentar su diversidad. Por lo tanto, nuestro objetivo principal es enseñarle a Latino Americanos como hacer paquetes de `R` para que los compartan vía GitHub, CRAN y Bioconductor.
 
-En [nuestro canal de YouTube](https://www.youtube.com/channel/UCHCdYfAXVzJIUkMoMSGiZMw) puedes encontrar videos de sesiones y cursos pasados que hemos organizado.
+En [nuestro canal de YouTube](https://youtube.com/@CDSB) puedes encontrar videos de sesiones y cursos pasados que hemos organizado.
 
 ## Mini cursos RMB 2020-2021
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg66mMnRH1LyR16RZTswat6n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=rtyv49poP_k&list=PLwa0ZAE6DJg66mMnRH1LyR16RZTswat6n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## CDSB2020
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg5h-7uTFZjgP7VZUEadZZfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=rtP4zmbR3p4&list=PLwa0ZAE6DJg5h-7uTFZjgP7VZUEadZZfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## CDSB2021 workflows
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wwhff7nrhMk&list=PLwa0ZAE6DJg5rYbF7drJ57oG8KO9P99VT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## CDSB2021 scRNAseq
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ushXIQu8N6U&list=PLwa0ZAE6DJg6j0QEgtgzQwi5xsz6po22E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## CDSB2022
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=nh12kbACwhw&list=PLwa0ZAE6DJg6MjRAz3uSl0BTXEz9E3uF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
