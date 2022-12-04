@@ -85,6 +85,18 @@ Somos un grupo interesado en ayudarle a miembros de países Latino Americanos en
 
 En [nuestro canal de YouTube](https://youtube.com/@CDSB) puedes encontrar videos de sesiones y cursos pasados que hemos organizado.
 
+## CDSB2022
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg6MjRAz3uSl0BTXEz9E3uF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## CDSB2021 scRNAseq
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg6j0QEgtgzQwi5xsz6po22E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## CDSB2021 workflows
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg5rYbF7drJ57oG8KO9P99VT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Mini cursos RMB 2020-2021
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg66mMnRH1LyR16RZTswat6n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -93,14 +105,3 @@ En [nuestro canal de YouTube](https://youtube.com/@CDSB) puedes encontrar videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg5h-7uTFZjgP7VZUEadZZfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## CDSB2021 workflows
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg5rYbF7drJ57oG8KO9P99VT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## CDSB2021 scRNAseq
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg6j0QEgtgzQwi5xsz6po22E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## CDSB2022
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg6MjRAz3uSl0BTXEz9E3uF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
