@@ -9,13 +9,14 @@ authors = ["Yalbibalderas"]
 superuser = false
 
 # Role/position
-role = "Investigador"
+role = "Investigadora"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas", url = "http://iner.salud.gob.mx/interna/lab_biopatologia.html" } ]
 
 # Short bio (displayed in user profile at end of posts)
+bio = "Investigadora en @RespiraINER."
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -32,7 +33,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Instructores 2021", "Instructores 2022"]
+user_groups = ["Instructores 2021", "Instructores 2022", "Instructores 2023"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]

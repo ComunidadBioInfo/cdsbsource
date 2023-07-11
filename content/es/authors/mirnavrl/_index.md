@@ -9,17 +9,17 @@ authors = ["mirnavrl"]
 superuser = false
 
 # Role/position
-role = "Estancia Postdoctoral"
+role = "Investigadora Asociada"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Universidad de Texas en Austin", url = "https://www.utexas.edu" } ]
+organizations = [ { name = "Instituto de Ciencias del Mar y Limnología", url = "https://www.icmyl.unam.mx" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Postdoc en @UTAustin, Bioinformática, Miembra de @RLadiesXalapa."
+bio = "Investigadora Asociada en @IcmlUnam, Bioinformática, Co-organizadora de @RLadiesXalapa."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "mirnavrl@austin.utexas.edu"
+email = "mvazquez@cmarl.unam.mx"
 
 # List (academic) interests or hobbies
 interests = [
@@ -30,7 +30,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Junta Directiva", "Instructores 2021", "Instructores 2022"]
+user_groups = ["Junta Directiva", "Instructores 2021", "Instructores 2022", "Instructores 2023"]
 
 # List qualifications (such as academic degrees)
 
@@ -42,7 +42,7 @@ user_groups = ["Junta Directiva", "Instructores 2021", "Instructores 2022"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:mirnavrl@austin.utexas.edu"  # For a direct email link, use "mailto:test@example.org".
+  link = "mvazquez@cmarl.unam.mx"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "home"
@@ -71,9 +71,11 @@ user_groups = ["Junta Directiva", "Instructores 2021", "Instructores 2022"]
 
 Soy una ecóloga evolutiva que busca entender la vida microbiana, cuáles son los factores ecológicos y evolutivos que moldean las poblaciones microbianas, así como entender la dinámica de sus genomas a la luz de la evolución. 
 
-Actualmente, soy postdoc en el laboratorio de ecología microbiana en la Universidad de Texas en Austin, donde mi investigación se centra en el descubrimiento de linajes y rutas metabólicas nuevas de microrganismos del océano a través de la reconstrucción de genomas obtenidos con metagenómica. 
+Actualmente, soy investigadora en el Instituto de Ciencias de Mar y Limnología de la UNAM, donde me dedico a estudiar la vida microbiana del océano. Mi trabajo se enfoca en explorar preguntas sobre biogeografía, evolución, ecología y fisiología de los microorganismos. Utilizo enfoques computacionales y experimentales para responder a estas preguntas y mi interés principal es entender cuáles son los factores que determinan la distribución de las especies microbianas en el océano, cuáles son las bases genómicas de la adaptación que lleva a la especiación, cuál es su papel en la biogeoquímica de la Tierra y cómo interactúan con otros organismos dentro del ecosistema.
 
 Hice mi doctorado en el Instituto de Ecología de la UNAM, donde estudié la evolución de las bacterias utilizando genómica comparada y poblacional. Para dicha investigación, aislé bacterias de las pozas de Cuatro Ciénegas y busqué genes asociados a la adaptación local. Durante mi primer postdoc, estudié la interacción entre las plantas, los insectos y los microbios, utilizando herramientas transcriptómicas y librerías de amplicones de 16s RNA. 
+
+Durante mi postdoc en el laboratorio de ecología microbiana en la Universidad de Texas en Austin, mi investigación se centró en el descubrimiento de linajes y rutas metabólicas nuevas de microrganismos del océano a través de la reconstrucción de genomas obtenidos con metagenómica. 
 
 Me gusta la comunidad de R, soy co-organizadora de R-Ladies Xalapa y San Cristóbal, y también parte del comité organizador de la Comunidad de Desarrolladores de Software de Bioinformática (CDSB). Actualmente, estoy trabajando en mi primer paquete de R que se llama Rbims y está enfocado en el análisis del metabolismo.
 
