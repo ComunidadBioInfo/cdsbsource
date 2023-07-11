@@ -16,7 +16,7 @@ role = "Estudiante de Doctorado"
 organizations = [ { name = "Instituto de Ciencias del Mar y Limnología", url = "https://www.icmyl.unam.mx" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Estudiante de Doctorado en en @IcmlUnam."
+bio = "Estudiante de Doctorado en @IcmlUnam."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "andresabstract@gmail.com"

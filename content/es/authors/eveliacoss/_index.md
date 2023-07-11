@@ -48,7 +48,7 @@ user_groups = ["Instructores 2023"]
 # [[social]]
 #   icon = "home"
 #   icon_pack = "fas"
-  link = "https://josschavezf.github.io/"
+#  link = "https://josschavezf.github.io/"
 
 # [[social]]
 #   icon = "twitter"
