@@ -22,12 +22,11 @@ bio = "Estudiante de Doctorado en @IcmlUnam."
 email = "andresabstract@gmail.com"
 
 # List (academic) interests or hobbies
-# interests = [
-#   "Bioinformática",
-#   "Programación en R",
-#   "Bioconductor",
-#   "Transcriptómica espacial"
-# ]
+interests = [
+  "Desarrollo en R",
+  "Bioinformática",
+  "Metagenómica"
+]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,4 +67,6 @@ user_groups = ["Instructores 2023"]
 #   link = "files/cv.pdf"
 
 +++
+
+He participado en proyectos de análisis genómicos y metagenómicos. Mi principal interés es la bioinformática y el desarrollo de software de código abierto. Me interesa participar en actividades donde se comparten conocimientos de distintas áreas del conocimiento.
 
