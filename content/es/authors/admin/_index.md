@@ -85,6 +85,10 @@ Somos un grupo interesado en ayudarle a miembros de países Latino Americanos en
 
 En [nuestro canal de YouTube](https://youtube.com/@CDSB) puedes encontrar videos de sesiones y cursos pasados que hemos organizado.
 
+## CDSB2023
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg5wPTtTuIeRGdxq9PLx2O_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## CDSB2022
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg6MjRAz3uSl0BTXEz9E3uF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

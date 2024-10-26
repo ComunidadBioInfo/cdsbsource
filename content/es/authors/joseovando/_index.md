@@ -21,17 +21,9 @@ bio = "Estudiante de Doctorado en @RespiraINER."
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "joseovando26@gmail.com"
 
-# List (academic) interests or hobbies
-# interests = [
-#   "Bioinformática",
-#   "Programación en R",
-#   "Bioconductor",
-#   "Transcriptómica espacial"
-# ]
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Instructores 2023"]
+user_groups = ["Instructores 2023", "Instructores 2024"]
 
 # List qualifications (such as academic degrees)
 
@@ -45,27 +37,10 @@ user_groups = ["Instructores 2023"]
   icon_pack = "fas"
   link = "mailto:joseovando26@gmail.com"  
 
-# [[social]]
-#   icon = "home"
-#   icon_pack = "fas"
-#   link = "https://josschavezf.github.io/"
-
-# [[social]]
-#   # icon = "twitter"
-#   # icon_pack = "fab"
-#   # link = "https://twitter.com/josschavezf1"
-
 [[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/joseovandor"
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
 
 +++
 

@@ -85,6 +85,11 @@ We are a group interested in helping members of Latin American countries acquire
 
 You can find some of our recorded videos available on [our YouTube channel](https://youtube.com/@CDSB).
 
+## CDSB2023
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg5wPTtTuIeRGdxq9PLx2O_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## CDSB2022
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwa0ZAE6DJg6MjRAz3uSl0BTXEz9E3uF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

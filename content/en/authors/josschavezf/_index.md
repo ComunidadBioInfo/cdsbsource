@@ -31,7 +31,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Board", "2020 Instructors", "Bioconductor Developer Alumni", "2021 Instructors", "2022 Instructors", "2023 Instructors"]
+user_groups = ["Board", "2020 Instructors", "Bioconductor Developer Alumni", "2021 Instructors", "2022 Instructors", "2023 Instructors", "2024 Instructors"]
 
 # List qualifications (such as academic degrees)
 
@@ -68,10 +68,7 @@ user_groups = ["Board", "2020 Instructors", "Bioconductor Developer Alumni", "20
 #   link = "files/cv.pdf"
 
 +++
-
-During my PhD project, in the [Computational Genomics Laboratory](https://biocomputo2.ibt.unam.mx) at IBT-UNAM, I focused on the study of bacterial transcriptional regulators through evolution. Additionally, I gained experience in writing R/Bioconductor packages and teaching R.
-
-Currently, I'm a Postdoctoral Fellow in the Department of Personalized Medicine of the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu), in New York City. My main interest is bioinformatics and the development of open source software for the analysis of single cell and spatial transcriptomics.
+I'm a Postdoctoral Fellow in the Department of Personalized Medicine of the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu), in New York City. My main interest is bioinformatics and the development of open source software for the analysis of single cell and spatial transcriptomics.
 
 Besides my research project, I enjoy teaching R and participating in activities that help expand the community of software developers in Latin America.
 

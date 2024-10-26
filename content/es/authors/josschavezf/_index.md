@@ -31,7 +31,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Junta Directiva", "Instructores 2020", "Exalumnos Desarrolladores de Bioconductor", "Instructores 2021", "Instructores 2022", "Instructores 2023"]
+user_groups = ["Junta Directiva", "Instructores 2020", "Exalumnos Desarrolladores de Bioconductor", "Instructores 2021", "Instructores 2022", "Instructores 2023", "Instructores 2024"]
 
 # List qualifications (such as academic degrees)
 
@@ -68,10 +68,7 @@ user_groups = ["Junta Directiva", "Instructores 2020", "Exalumnos Desarrolladore
 #   link = "files/cv.pdf"
 
 +++
-
-Durante mi proyecto de Doctorado, en el [Laboratorio de Genómica Computacional](https://biocomputo2.ibt.unam.mx) del IBT-UNAM, me enfoqué en el estudio de los reguladores transcripcionales bacterianos a través de la evolución. Adicionalmente, adquirí experiencia en la escritura de paquetes de R/Bioconductor y la enseñanza de R.
-
-Actualmente, me encuentro realizando una estancia postdoctoral en el Departamento de Medicina Personalizada de la [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu), en la ciudad de Nueva York. Mi principal interés es la bioinformática y el desarrollo de software de código abierto para el análisis de datos transcriptómicos espaciales de célula única. 
+Actualmente, me encuentro realizando una estancia postdoctoral en el Departamento de Medicina Personalizada de la [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu), en la ciudad de Nueva York. Mi principal interés es la bioinformática y el desarrollo de software de código abierto para el análisis de datos transcriptómicos espaciales. 
 
 Además de mi proyecto de investigación, disfruto dar clases de R y participar en actividades que ayudan a expandir la comunidad de desarrolladores de software en latinoamérica.
 
