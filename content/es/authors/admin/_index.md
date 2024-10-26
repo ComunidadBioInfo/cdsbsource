@@ -68,7 +68,7 @@ user_groups = ["Comunidad"]
 [[social]]
   icon = "slack"
   icon_pack = "fab"
-  link = "https://comunidadbioinfo.slack.com"
+  link = "https://join.slack.com/t/comunidadbioinfo/shared_invite/zt-8lsvpm84-Fne1W0hadk6cpjgJS17Tnw"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
